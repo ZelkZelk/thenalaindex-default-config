@@ -1,0 +1,2328 @@
+2016-04-07 10:01:42 Info: [HTTP] Init
+2016-04-07 10:19:17 Info: [HTTP] 
+2016-04-07 10:19:26 Info: [HTTP] http://www.pol.una.py
+2016-04-07 10:20:11 Info: [HTTP] http://www.pol.una.py
+2016-04-07 10:20:59 Info: [HTTP] http://www.pol.una.py
+2016-04-07 10:21:12 Info: [HTTP] http://www.pol.una.py
+2016-04-07 10:24:37 Info: [HTTP] http://www.pol.una.py
+2016-04-07 10:24:56 Info: [HTTP] http://www.pol.una.py
+2016-04-07 10:34:10 Info: [HTTP] http://www.pol.una.py
+2016-04-07 10:34:19 Info: [HTTP] 	 | STATUS = 200
+2016-04-07 10:34:19 Info: [HTTP] 	 | TIME = 8.49567
+2016-04-07 10:34:19 Info: [HTTP] 	 | SIZE = 42753
+2016-04-07 10:34:39 Info: [HTTP] http://www.pol.una.py
+2016-04-07 10:34:40 Info: [HTTP] 	 | STATUS = 200
+2016-04-07 10:34:40 Info: [HTTP] 	 | TIME = 1.366534
+2016-04-07 10:34:40 Info: [HTTP] 	 | SIZE = 42753
+2016-04-07 10:34:46 Info: [HTTP] http://www.pol.una.py
+2016-04-07 10:34:54 Info: [HTTP] 	 | STATUS = 200
+2016-04-07 10:34:54 Info: [HTTP] 	 | TIME = 7.858882
+2016-04-07 10:34:54 Info: [HTTP] 	 | SIZE = 42753
+2016-04-07 10:43:37 Info: [HTTP] http://www.pol.una.py
+2016-04-07 10:43:44 Info: [HTTP] 	 | STATUS = 200
+2016-04-07 10:43:44 Info: [HTTP] 	 | TIME = 6.669769
+2016-04-07 10:43:44 Info: [HTTP] 	 | SIZE = 42850
+2016-04-07 10:43:50 Info: [HTTP] http://www.pol.una.py
+2016-04-07 10:43:57 Info: [HTTP] 	 | STATUS = 200
+2016-04-07 10:43:57 Info: [HTTP] 	 | TIME = 6.665653
+2016-04-07 10:43:57 Info: [HTTP] 	 | SIZE = 42850
+2016-04-07 10:44:37 Info: [HTTP] http://www.pol.una.py
+2016-04-07 10:44:44 Info: [HTTP] 	 | STATUS = 200
+2016-04-07 10:44:44 Info: [HTTP] 	 | TIME = 6.573473
+2016-04-07 10:44:44 Info: [HTTP] 	 | SIZE = 42850
+2016-04-07 10:45:40 Info: [HTTP] http://www.pol.una.py
+2016-04-07 10:45:44 Info: [HTTP] 	 | STATUS = 200
+2016-04-07 10:45:44 Info: [HTTP] 	 | TIME = 3.520348
+2016-04-07 10:45:44 Info: [HTTP] 	 | SIZE = 42753
+2016-04-07 10:46:11 Info: [HTTP] http://www.pol.una.py
+2016-04-07 10:46:15 Info: [HTTP] 	 | STATUS = 200
+2016-04-07 10:46:15 Info: [HTTP] 	 | TIME = 3.741808
+2016-04-07 10:46:15 Info: [HTTP] 	 | SIZE = 42850
+2016-04-07 10:48:05 Info: [HTTP] http://www.pol.una.py
+2016-04-07 10:48:09 Info: [HTTP] 	 | STATUS = 200
+2016-04-07 10:48:09 Info: [HTTP] 	 | TIME = 4.57797
+2016-04-07 10:48:09 Info: [HTTP] 	 | SIZE = 42850
+2016-04-07 11:07:45 Info: [HTTP] http://www.pol.una.py
+2016-04-07 11:07:46 Info: [HTTP] 	 | STATUS = 200
+2016-04-07 11:07:46 Info: [HTTP] 	 | TIME = 0.920696
+2016-04-07 11:07:46 Info: [HTTP] 	 | SIZE = 42753
+2016-04-07 14:04:15 Info: [HTTP] http://www.pol.una.py
+2016-04-07 14:04:18 Info: [HTTP] 	 | STATUS = 200
+2016-04-07 14:04:18 Info: [HTTP] 	 | TIME = 2.712743
+2016-04-07 14:04:18 Info: [HTTP] 	 | SIZE = 42850
+2016-04-08 11:43:30 Info: [HTTP] GET:http://www.pol.una.py/robots.txt
+2016-04-08 11:43:31 Info: [HTTP] 	 | STATUS = 200
+2016-04-08 11:43:31 Info: [HTTP] 	 | TIME = 1.073342
+2016-04-08 11:43:31 Info: [HTTP] 	 | SIZE = 1479
+2016-04-08 11:44:00 Info: [HTTP] GET:http://www.pol.una.py/robots.txt
+2016-04-08 11:44:01 Info: [HTTP] 	 | STATUS = 200
+2016-04-08 11:44:01 Info: [HTTP] 	 | TIME = 0.323273
+2016-04-08 11:44:01 Info: [HTTP] 	 | SIZE = 1479
+2016-04-08 11:44:01 Info: [HTTP] GET:http://www.pol.una.py
+2016-04-08 11:44:02 Info: [HTTP] 	 | STATUS = 200
+2016-04-08 11:44:02 Info: [HTTP] 	 | TIME = 0.883513
+2016-04-08 11:44:02 Info: [HTTP] 	 | SIZE = 41639
+2016-04-08 11:46:58 Info: [HTTP] GET:http://www.pol.una.py/robots.txt
+2016-04-08 11:46:58 Info: [HTTP] 	 | STATUS = 200
+2016-04-08 11:46:58 Info: [HTTP] 	 | TIME = 0.409108
+2016-04-08 11:46:58 Info: [HTTP] 	 | SIZE = 1479
+2016-04-08 11:46:58 Info: [HTTP] GET:http://www.pol.una.py
+2016-04-08 11:46:59 Info: [HTTP] 	 | STATUS = 200
+2016-04-08 11:46:59 Info: [HTTP] 	 | TIME = 0.645686
+2016-04-08 11:46:59 Info: [HTTP] 	 | SIZE = 41639
+2016-04-08 11:48:40 Info: [HTTP] GET:http://www.pol.una.py/robots.txt
+2016-04-08 11:48:40 Info: [HTTP] 	 | STATUS = 200
+2016-04-08 11:48:40 Info: [HTTP] 	 | TIME = 0.205796
+2016-04-08 11:48:40 Info: [HTTP] 	 | SIZE = 1479
+2016-04-08 11:48:40 Info: [HTTP] GET:http://www.pol.una.py
+2016-04-08 11:48:41 Info: [HTTP] 	 | STATUS = 200
+2016-04-08 11:48:41 Info: [HTTP] 	 | TIME = 1.038259
+2016-04-08 11:48:41 Info: [HTTP] 	 | SIZE = 41736
+2016-04-08 12:01:18 Info: [HTTP] GET:http://www.pol.una.py/robots.txt
+2016-04-08 12:01:18 Info: [HTTP] 	 | STATUS = 200
+2016-04-08 12:01:18 Info: [HTTP] 	 | TIME = 0.250575
+2016-04-08 12:01:18 Info: [HTTP] 	 | SIZE = 1479
+2016-04-08 12:01:18 Info: [HTTP] GET:http://www.pol.una.py
+2016-04-08 12:01:19 Info: [HTTP] 	 | STATUS = 200
+2016-04-08 12:01:19 Info: [HTTP] 	 | TIME = 0.880498
+2016-04-08 12:01:19 Info: [HTTP] 	 | SIZE = 41639
+2016-04-08 12:24:34 Info: [HTTP] GET:http://www.pol.una.py/robots.txt
+2016-04-08 12:24:34 Info: [HTTP] 	 | STATUS = 200
+2016-04-08 12:24:34 Info: [HTTP] 	 | TIME = 0.283585
+2016-04-08 12:24:34 Info: [HTTP] 	 | SIZE = 1479
+2016-04-08 12:24:34 Info: [HTTP] GET:http://www.pol.una.py
+2016-04-08 12:24:35 Info: [HTTP] 	 | STATUS = 200
+2016-04-08 12:24:35 Info: [HTTP] 	 | TIME = 0.962743
+2016-04-08 12:24:35 Info: [HTTP] 	 | SIZE = 41736
+2016-04-08 15:04:46 Info: [HTTP] GET:http://www.pol.una.py/robots.txt
+2016-04-08 15:04:52 Info: [HTTP] 	 | STATUS = 200
+2016-04-08 15:04:52 Info: [HTTP] 	 | TIME = 5.719468
+2016-04-08 15:04:52 Info: [HTTP] 	 | SIZE = 1479
+2016-04-08 15:04:52 Info: [HTTP] GET:http://www.pol.una.py
+2016-04-08 15:04:54 Info: [HTTP] 	 | STATUS = 200
+2016-04-08 15:04:54 Info: [HTTP] 	 | TIME = 2.076978
+2016-04-08 15:04:54 Info: [HTTP] 	 | SIZE = 41736
+2016-04-08 15:06:56 Info: [HTTP] GET:http://www.pol.una.py/robots.txt
+2016-04-08 15:07:02 Info: [HTTP] 	 | STATUS = 200
+2016-04-08 15:07:02 Info: [HTTP] 	 | TIME = 5.830971
+2016-04-08 15:07:02 Info: [HTTP] 	 | SIZE = 1479
+2016-04-08 15:07:02 Info: [HTTP] GET:http://www.pol.una.py
+2016-04-08 15:07:03 Info: [HTTP] 	 | STATUS = 200
+2016-04-08 15:07:03 Info: [HTTP] 	 | TIME = 0.838747
+2016-04-08 15:07:03 Info: [HTTP] 	 | SIZE = 41639
+2016-04-08 15:07:20 Info: [HTTP] GET:http://www.pol.una.py/robots.txt
+2016-04-08 15:07:28 Info: [HTTP] 	 | STATUS = 200
+2016-04-08 15:07:28 Info: [HTTP] 	 | TIME = 7.843429
+2016-04-08 15:07:28 Info: [HTTP] 	 | SIZE = 1479
+2016-04-08 15:07:28 Info: [HTTP] GET:http://www.pol.una.py
+2016-04-08 15:07:29 Info: [HTTP] 	 | STATUS = 200
+2016-04-08 15:07:29 Info: [HTTP] 	 | TIME = 1.174839
+2016-04-08 15:07:29 Info: [HTTP] 	 | SIZE = 41639
+2016-04-12 10:25:55 Info: [HTTP] GET:http://www.pol.una.py/robots.txt
+2016-04-12 10:25:55 Info: [HTTP] 	 | STATUS = 200
+2016-04-12 10:25:55 Info: [HTTP] 	 | TIME = 0.274181
+2016-04-12 10:25:55 Info: [HTTP] 	 | SIZE = 1479
+2016-04-12 10:25:55 Info: [HTTP] GET:http://www.pol.una.py
+2016-04-12 10:25:56 Info: [HTTP] 	 | STATUS = 200
+2016-04-12 10:25:56 Info: [HTTP] 	 | TIME = 0.955207
+2016-04-12 10:25:56 Info: [HTTP] 	 | SIZE = 41966
+2016-04-12 10:28:06 Info: [HTTP] GET:http://www.pol.una.py/robots.txt
+2016-04-12 10:28:06 Info: [HTTP] 	 | STATUS = 200
+2016-04-12 10:28:06 Info: [HTTP] 	 | TIME = 0.31887
+2016-04-12 10:28:06 Info: [HTTP] 	 | SIZE = 1479
+2016-04-12 10:28:06 Info: [HTTP] GET:http://www.pol.una.py
+2016-04-12 10:28:09 Info: [HTTP] 	 | STATUS = 200
+2016-04-12 10:28:09 Info: [HTTP] 	 | TIME = 2.632641
+2016-04-12 10:28:09 Info: [HTTP] 	 | SIZE = 42063
+2016-04-12 10:28:21 Info: [HTTP] GET:http://www.pol.una.py/robots.txt
+2016-04-12 10:28:21 Info: [HTTP] 	 | STATUS = 200
+2016-04-12 10:28:21 Info: [HTTP] 	 | TIME = 0.22716
+2016-04-12 10:28:21 Info: [HTTP] 	 | SIZE = 1479
+2016-04-12 10:28:21 Info: [HTTP] GET:http://www.pol.una.py
+2016-04-12 10:28:23 Info: [HTTP] 	 | STATUS = 200
+2016-04-12 10:28:23 Info: [HTTP] 	 | TIME = 2.06188
+2016-04-12 10:28:23 Info: [HTTP] 	 | SIZE = 42063
+2016-04-12 13:52:22 Info: [HTTP] GET:http://www.pol.una.py/robots.txt
+2016-04-12 13:52:24 Info: [HTTP] 	 | STATUS = 200
+2016-04-12 13:52:24 Info: [HTTP] 	 | TIME = 1.772464
+2016-04-12 13:52:24 Info: [HTTP] 	 | SIZE = 1479
+2016-04-12 13:52:24 Info: [HTTP] GET:http://www.pol.una.py
+2016-04-12 13:52:25 Info: [HTTP] 	 | STATUS = 200
+2016-04-12 13:52:25 Info: [HTTP] 	 | TIME = 1.108226
+2016-04-12 13:52:25 Info: [HTTP] 	 | SIZE = 42063
+2016-04-13 14:01:41 Info: [HTTP] GET:http://www.pol.una.py/robots.txt
+2016-04-13 14:01:46 Info: [HTTP] 	 | STATUS = 200
+2016-04-13 14:01:46 Info: [HTTP] 	 | TIME = 4.377483
+2016-04-13 14:01:46 Info: [HTTP] 	 | SIZE = 1479
+2016-04-13 14:01:46 Info: [HTTP] GET:http://www.pol.una.py
+2016-04-13 14:01:47 Info: [HTTP] 	 | STATUS = 200
+2016-04-13 14:01:47 Info: [HTTP] 	 | TIME = 1.293208
+2016-04-13 14:01:47 Info: [HTTP] 	 | SIZE = 41822
+2016-04-15 20:23:13 Info: [HTTP] GET:http://www.pol.una.py/robots.txt
+2016-04-15 20:23:14 Info: [HTTP] 	 | STATUS = 200
+2016-04-15 20:23:14 Info: [HTTP] 	 | TIME = 0.372415
+2016-04-15 20:23:14 Info: [HTTP] 	 | SIZE = 1479
+2016-04-15 20:23:14 Info: [HTTP] GET:http://www.pol.una.py
+2016-04-15 20:23:16 Info: [HTTP] 	 | STATUS = 200
+2016-04-15 20:23:16 Info: [HTTP] 	 | TIME = 1.772835
+2016-04-15 20:23:16 Info: [HTTP] 	 | SIZE = 41960
+2016-04-27 16:32:43 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-27 16:32:45 Info: [HTTP] 	 | STATUS = 200
+2016-04-27 16:32:45 Info: [HTTP] 	 | TIME = 2.009268
+2016-04-27 16:32:45 Info: [HTTP] 	 | SIZE = 1479
+2016-04-27 16:32:45 Info: [HTTP] GET:http://www.pol.una.py:80/
+2016-04-27 16:32:46 Info: [HTTP] 	 | STATUS = 200
+2016-04-27 16:32:46 Info: [HTTP] 	 | TIME = 0.99706
+2016-04-27 16:32:46 Info: [HTTP] 	 | SIZE = 42081
+2016-04-27 16:32:46 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-27 16:32:46 Info: [HTTP] 	 | STATUS = 200
+2016-04-27 16:32:46 Info: [HTTP] 	 | TIME = 0.211004
+2016-04-27 16:32:46 Info: [HTTP] 	 | SIZE = 1479
+2016-04-27 16:32:46 Info: [HTTP] GET:http://www.pol.una.py:80/abigrap/
+2016-04-27 16:32:49 Info: [HTTP] 	 | STATUS = 503
+2016-04-27 16:32:49 Info: [HTTP] 	 | TIME = 3.193789
+2016-04-27 16:32:49 Info: [HTTP] 	 | SIZE = 299
+2016-04-27 16:32:49 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-27 16:32:50 Info: [HTTP] 	 | STATUS = 200
+2016-04-27 16:32:50 Info: [HTTP] 	 | TIME = 0.22017
+2016-04-27 16:32:50 Info: [HTTP] 	 | SIZE = 1479
+2016-04-27 16:32:50 Info: [HTTP] GET:http://www.pol.una.py:80/cia/
+2016-04-27 16:32:50 Info: [HTTP] 	 | STATUS = 200
+2016-04-27 16:32:50 Info: [HTTP] 	 | TIME = 0.69574
+2016-04-27 16:32:50 Info: [HTTP] 	 | SIZE = 25390
+2016-04-27 16:32:50 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-27 16:32:51 Info: [HTTP] 	 | STATUS = 200
+2016-04-27 16:32:51 Info: [HTTP] 	 | TIME = 0.20596
+2016-04-27 16:32:51 Info: [HTTP] 	 | SIZE = 1479
+2016-04-27 16:32:51 Info: [HTTP] GET:http://www.pol.una.py:80/emprendedores/
+2016-04-27 16:32:51 Info: [HTTP] 	 | STATUS = 200
+2016-04-27 16:32:51 Info: [HTTP] 	 | TIME = 0.309144
+2016-04-27 16:32:51 Info: [HTTP] 	 | SIZE = 8480
+2016-04-27 16:32:51 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-27 16:32:51 Info: [HTTP] 	 | STATUS = 200
+2016-04-27 16:32:51 Info: [HTTP] 	 | TIME = 0.227551
+2016-04-27 16:32:51 Info: [HTTP] 	 | SIZE = 1479
+2016-04-27 16:32:51 Info: [HTTP] GET:http://www.pol.una.py:80/etyc2015/
+2016-04-27 16:32:52 Info: [HTTP] 	 | STATUS = 200
+2016-04-27 16:32:52 Info: [HTTP] 	 | TIME = 0.488554
+2016-04-27 16:32:52 Info: [HTTP] 	 | SIZE = 50058
+2016-04-27 16:32:52 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-27 16:32:52 Info: [HTTP] 	 | STATUS = 200
+2016-04-27 16:32:52 Info: [HTTP] 	 | TIME = 0.168028
+2016-04-27 16:32:52 Info: [HTTP] 	 | SIZE = 1479
+2016-04-27 16:32:52 Info: [HTTP] GET:http://www.pol.una.py:80/cursosverano/
+2016-04-27 16:32:53 Info: [HTTP] 	 | STATUS = 200
+2016-04-27 16:32:53 Info: [HTTP] 	 | TIME = 0.531689
+2016-04-27 16:32:53 Info: [HTTP] 	 | SIZE = 21624
+2016-04-27 16:35:07 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-27 16:35:09 Info: [HTTP] 	 | STATUS = 200
+2016-04-27 16:35:09 Info: [HTTP] 	 | TIME = 2.137775
+2016-04-27 16:35:09 Info: [HTTP] 	 | SIZE = 1479
+2016-04-27 16:35:09 Info: [HTTP] GET:http://www.pol.una.py:80/
+2016-04-27 16:35:10 Info: [HTTP] 	 | STATUS = 200
+2016-04-27 16:35:10 Info: [HTTP] 	 | TIME = 0.960109
+2016-04-27 16:35:10 Info: [HTTP] 	 | SIZE = 42081
+2016-04-27 16:35:11 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-27 16:35:11 Info: [HTTP] 	 | STATUS = 200
+2016-04-27 16:35:11 Info: [HTTP] 	 | TIME = 0.206528
+2016-04-27 16:35:11 Info: [HTTP] 	 | SIZE = 1479
+2016-04-27 16:35:11 Info: [HTTP] GET:http://www.pol.una.py:80/abigrap/
+2016-04-27 16:35:15 Info: [HTTP] 	 | STATUS = 503
+2016-04-27 16:35:15 Info: [HTTP] 	 | TIME = 4.239071
+2016-04-27 16:35:15 Info: [HTTP] 	 | SIZE = 299
+2016-04-27 16:35:15 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-27 16:35:15 Info: [HTTP] 	 | STATUS = 200
+2016-04-27 16:35:15 Info: [HTTP] 	 | TIME = 0.240921
+2016-04-27 16:35:15 Info: [HTTP] 	 | SIZE = 1479
+2016-04-27 16:35:15 Info: [HTTP] GET:http://www.pol.una.py:80/cia/
+2016-04-27 16:38:09 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-27 16:38:12 Info: [HTTP] 	 | STATUS = 200
+2016-04-27 16:38:12 Info: [HTTP] 	 | TIME = 2.398537
+2016-04-27 16:38:12 Info: [HTTP] 	 | SIZE = 1479
+2016-04-27 16:38:12 Info: [HTTP] GET:http://www.pol.una.py:80/
+2016-04-27 16:38:13 Info: [HTTP] 	 | STATUS = 200
+2016-04-27 16:38:13 Info: [HTTP] 	 | TIME = 1.129461
+2016-04-27 16:38:13 Info: [HTTP] 	 | SIZE = 42178
+2016-04-27 16:38:13 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-27 16:38:13 Info: [HTTP] 	 | STATUS = 200
+2016-04-27 16:38:13 Info: [HTTP] 	 | TIME = 0.233194
+2016-04-27 16:38:13 Info: [HTTP] 	 | SIZE = 1479
+2016-04-27 16:38:13 Info: [HTTP] GET:http://www.pol.una.py:80/abigrap/
+2016-04-27 16:38:16 Info: [HTTP] 	 | STATUS = 503
+2016-04-27 16:38:16 Info: [HTTP] 	 | TIME = 3.1549
+2016-04-27 16:38:16 Info: [HTTP] 	 | SIZE = 323
+2016-04-27 16:38:16 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-27 16:38:17 Info: [HTTP] 	 | STATUS = 200
+2016-04-27 16:38:17 Info: [HTTP] 	 | TIME = 0.240989
+2016-04-27 16:38:17 Info: [HTTP] 	 | SIZE = 1479
+2016-04-27 16:38:17 Info: [HTTP] GET:http://www.pol.una.py:80/cia/
+2016-04-27 16:38:17 Info: [HTTP] 	 | STATUS = 200
+2016-04-27 16:38:17 Info: [HTTP] 	 | TIME = 0.697889
+2016-04-27 16:38:17 Info: [HTTP] 	 | SIZE = 25390
+2016-04-27 16:38:17 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-27 16:38:18 Info: [HTTP] 	 | STATUS = 200
+2016-04-27 16:38:18 Info: [HTTP] 	 | TIME = 0.197322
+2016-04-27 16:38:18 Info: [HTTP] 	 | SIZE = 1479
+2016-04-27 16:38:18 Info: [HTTP] GET:http://www.pol.una.py:80/emprendedores/
+2016-04-27 16:38:19 Info: [HTTP] 	 | STATUS = 200
+2016-04-27 16:38:19 Info: [HTTP] 	 | TIME = 0.953025
+2016-04-27 16:38:19 Info: [HTTP] 	 | SIZE = 8480
+2016-04-27 16:38:19 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-27 16:38:19 Info: [HTTP] 	 | STATUS = 200
+2016-04-27 16:38:19 Info: [HTTP] 	 | TIME = 0.222017
+2016-04-27 16:38:19 Info: [HTTP] 	 | SIZE = 1479
+2016-04-27 16:38:19 Info: [HTTP] GET:http://www.pol.una.py:80/etyc2015/
+2016-04-27 16:38:19 Info: [HTTP] 	 | STATUS = 200
+2016-04-27 16:38:19 Info: [HTTP] 	 | TIME = 0.477356
+2016-04-27 16:38:19 Info: [HTTP] 	 | SIZE = 50058
+2016-04-27 16:38:20 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-27 16:38:20 Info: [HTTP] 	 | STATUS = 200
+2016-04-27 16:38:20 Info: [HTTP] 	 | TIME = 0.24867
+2016-04-27 16:38:20 Info: [HTTP] 	 | SIZE = 1479
+2016-04-27 16:38:20 Info: [HTTP] GET:http://www.pol.una.py:80/cursosverano/
+2016-04-27 16:38:21 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-27 16:38:22 Info: [HTTP] 	 | STATUS = 200
+2016-04-27 16:38:22 Info: [HTTP] 	 | TIME = 0.312223
+2016-04-27 16:38:22 Info: [HTTP] 	 | SIZE = 1479
+2016-04-27 16:38:22 Info: [HTTP] GET:http://www.pol.una.py:80/
+2016-04-27 16:38:22 Info: [HTTP] 	 | STATUS = 200
+2016-04-27 16:38:22 Info: [HTTP] 	 | TIME = 0.878955
+2016-04-27 16:38:22 Info: [HTTP] 	 | SIZE = 42081
+2016-04-27 16:38:23 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-27 16:38:23 Info: [HTTP] 	 | STATUS = 200
+2016-04-27 16:38:23 Info: [HTTP] 	 | TIME = 0.202788
+2016-04-27 16:38:23 Info: [HTTP] 	 | SIZE = 1479
+2016-04-27 16:38:23 Info: [HTTP] GET:http://www.pol.una.py:80/abigrap/
+2016-04-27 16:38:26 Info: [HTTP] 	 | STATUS = 503
+2016-04-27 16:38:26 Info: [HTTP] 	 | TIME = 3.157678
+2016-04-27 16:38:26 Info: [HTTP] 	 | SIZE = 299
+2016-04-27 16:38:26 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-27 16:38:26 Info: [HTTP] 	 | STATUS = 200
+2016-04-27 16:38:26 Info: [HTTP] 	 | TIME = 0.225239
+2016-04-27 16:38:26 Info: [HTTP] 	 | SIZE = 1479
+2016-04-27 16:38:26 Info: [HTTP] GET:http://www.pol.una.py:80/cia/
+2016-04-27 16:38:27 Info: [HTTP] 	 | STATUS = 200
+2016-04-27 16:38:27 Info: [HTTP] 	 | TIME = 0.591499
+2016-04-27 16:38:27 Info: [HTTP] 	 | SIZE = 25390
+2016-04-27 16:38:27 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-27 16:38:27 Info: [HTTP] 	 | STATUS = 200
+2016-04-27 16:38:27 Info: [HTTP] 	 | TIME = 0.179917
+2016-04-27 16:38:27 Info: [HTTP] 	 | SIZE = 1479
+2016-04-27 16:39:00 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-27 16:39:04 Info: [HTTP] 	 | STATUS = 200
+2016-04-27 16:39:04 Info: [HTTP] 	 | TIME = 3.480489
+2016-04-27 16:39:04 Info: [HTTP] 	 | SIZE = 1479
+2016-04-27 16:39:04 Info: [HTTP] GET:http://www.pol.una.py:80/
+2016-04-27 16:39:05 Info: [HTTP] 	 | STATUS = 200
+2016-04-27 16:39:05 Info: [HTTP] 	 | TIME = 0.844964
+2016-04-27 16:39:05 Info: [HTTP] 	 | SIZE = 42081
+2016-04-27 16:39:05 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-27 16:39:05 Info: [HTTP] 	 | STATUS = 200
+2016-04-27 16:39:05 Info: [HTTP] 	 | TIME = 0.160799
+2016-04-27 16:39:05 Info: [HTTP] 	 | SIZE = 1479
+2016-04-27 16:39:05 Info: [HTTP] GET:http://www.pol.una.py:80/abigrap/
+2016-04-27 16:39:09 Info: [HTTP] 	 | STATUS = 503
+2016-04-27 16:39:09 Info: [HTTP] 	 | TIME = 4.276236
+2016-04-27 16:39:09 Info: [HTTP] 	 | SIZE = 299
+2016-04-27 16:39:09 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-27 16:39:10 Info: [HTTP] 	 | STATUS = 200
+2016-04-27 16:39:10 Info: [HTTP] 	 | TIME = 0.266084
+2016-04-27 16:39:10 Info: [HTTP] 	 | SIZE = 1479
+2016-04-27 16:39:10 Info: [HTTP] GET:http://www.pol.una.py:80/cia/
+2016-04-27 16:39:10 Info: [HTTP] 	 | STATUS = 200
+2016-04-27 16:39:10 Info: [HTTP] 	 | TIME = 0.88537
+2016-04-27 16:39:10 Info: [HTTP] 	 | SIZE = 25390
+2016-04-27 16:39:11 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-27 16:39:11 Info: [HTTP] 	 | STATUS = 200
+2016-04-27 16:39:11 Info: [HTTP] 	 | TIME = 0.186795
+2016-04-27 16:39:11 Info: [HTTP] 	 | SIZE = 1479
+2016-04-27 16:39:11 Info: [HTTP] GET:http://www.pol.una.py:80/emprendedores/
+2016-04-27 16:39:11 Info: [HTTP] 	 | STATUS = 200
+2016-04-27 16:39:11 Info: [HTTP] 	 | TIME = 0.286985
+2016-04-27 16:39:11 Info: [HTTP] 	 | SIZE = 8480
+2016-04-27 16:39:11 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-27 16:39:12 Info: [HTTP] 	 | STATUS = 200
+2016-04-27 16:39:12 Info: [HTTP] 	 | TIME = 0.201233
+2016-04-27 16:39:12 Info: [HTTP] 	 | SIZE = 1479
+2016-04-27 16:39:12 Info: [HTTP] GET:http://www.pol.una.py:80/etyc2015/
+2016-04-27 16:39:12 Info: [HTTP] 	 | STATUS = 200
+2016-04-27 16:39:12 Info: [HTTP] 	 | TIME = 0.741981
+2016-04-27 16:39:12 Info: [HTTP] 	 | SIZE = 50058
+2016-04-27 16:39:12 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-27 16:39:13 Info: [HTTP] 	 | STATUS = 200
+2016-04-27 16:39:13 Info: [HTTP] 	 | TIME = 0.213774
+2016-04-27 16:39:13 Info: [HTTP] 	 | SIZE = 1479
+2016-04-27 16:39:13 Info: [HTTP] GET:http://www.pol.una.py:80/cursosverano/
+2016-04-27 16:39:29 Info: [HTTP] 	 | STATUS = 200
+2016-04-27 16:39:29 Info: [HTTP] 	 | TIME = 16.472994
+2016-04-27 16:39:29 Info: [HTTP] 	 | SIZE = 21624
+2016-04-27 16:39:29 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-27 16:39:29 Info: [HTTP] 	 | STATUS = 200
+2016-04-27 16:39:29 Info: [HTTP] 	 | TIME = 0.243079
+2016-04-27 16:39:29 Info: [HTTP] 	 | SIZE = 1479
+2016-04-27 16:39:29 Info: [HTTP] GET:http://www.pol.una.py:80/
+2016-04-27 16:39:31 Info: [HTTP] 	 | STATUS = 200
+2016-04-27 16:39:31 Info: [HTTP] 	 | TIME = 1.073729
+2016-04-27 16:39:31 Info: [HTTP] 	 | SIZE = 42081
+2016-04-27 16:39:31 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-27 16:39:31 Info: [HTTP] 	 | STATUS = 200
+2016-04-27 16:39:31 Info: [HTTP] 	 | TIME = 0.200405
+2016-04-27 16:39:31 Info: [HTTP] 	 | SIZE = 1479
+2016-04-27 16:39:31 Info: [HTTP] GET:http://www.pol.una.py:80/certificados/
+2016-04-27 16:39:31 Info: [HTTP] 	 | STATUS = 404
+2016-04-27 16:39:31 Info: [HTTP] 	 | TIME = 0.234166
+2016-04-27 16:39:31 Info: [HTTP] 	 | SIZE = 211
+2016-04-27 16:39:31 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-27 16:39:31 Info: [HTTP] 	 | STATUS = 200
+2016-04-27 16:39:31 Info: [HTTP] 	 | TIME = 0.188901
+2016-04-27 16:39:31 Info: [HTTP] 	 | SIZE = 1479
+2016-04-27 16:39:31 Info: [HTTP] GET:http://www.pol.una.py:80/cursosverano/inscripciones/nuevo/
+2016-04-27 16:39:32 Info: [HTTP] 	 | STATUS = 200
+2016-04-27 16:39:32 Info: [HTTP] 	 | TIME = 0.902356
+2016-04-27 16:39:32 Info: [HTTP] 	 | SIZE = 27732
+2016-04-27 16:39:32 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-27 16:39:33 Info: [HTTP] 	 | STATUS = 200
+2016-04-27 16:39:33 Info: [HTTP] 	 | TIME = 0.169048
+2016-04-27 16:39:33 Info: [HTTP] 	 | SIZE = 1479
+2016-04-27 16:39:33 Info: [HTTP] GET:http://www.pol.una.py:80/cursosverano/2016_certificados/
+2016-04-27 16:39:33 Info: [HTTP] 	 | STATUS = 200
+2016-04-27 16:39:33 Info: [HTTP] 	 | TIME = 0.215392
+2016-04-27 16:39:33 Info: [HTTP] 	 | SIZE = 1065
+2016-04-27 16:39:33 Info: [HTTP] GET:http://c.statcounter.com:80/robots.txt
+2016-04-27 16:39:34 Info: [HTTP] 	 | STATUS = 200
+2016-04-27 16:39:34 Info: [HTTP] 	 | TIME = 0.735184
+2016-04-27 16:39:34 Info: [HTTP] 	 | SIZE = 26
+2016-04-27 16:39:34 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-27 16:39:34 Info: [HTTP] 	 | STATUS = 200
+2016-04-27 16:39:34 Info: [HTTP] 	 | TIME = 0.217867
+2016-04-27 16:39:34 Info: [HTTP] 	 | SIZE = 1479
+2016-04-27 16:39:34 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-27 16:39:34 Info: [HTTP] 	 | STATUS = 200
+2016-04-27 16:39:34 Info: [HTTP] 	 | TIME = 0.22668
+2016-04-27 16:39:34 Info: [HTTP] 	 | SIZE = 1479
+2016-04-27 16:39:34 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-27 16:39:34 Info: [HTTP] 	 | STATUS = 200
+2016-04-27 16:39:34 Info: [HTTP] 	 | TIME = 0.276882
+2016-04-27 16:39:34 Info: [HTTP] 	 | SIZE = 1479
+2016-04-27 16:39:34 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-27 16:39:35 Info: [HTTP] 	 | STATUS = 200
+2016-04-27 16:39:35 Info: [HTTP] 	 | TIME = 0.214594
+2016-04-27 16:39:35 Info: [HTTP] 	 | SIZE = 1479
+2016-04-27 16:39:35 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-27 16:39:35 Info: [HTTP] 	 | STATUS = 200
+2016-04-27 16:39:35 Info: [HTTP] 	 | TIME = 0.234812
+2016-04-27 16:39:35 Info: [HTTP] 	 | SIZE = 1479
+2016-04-27 16:39:35 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-27 16:39:35 Info: [HTTP] 	 | STATUS = 200
+2016-04-27 16:39:35 Info: [HTTP] 	 | TIME = 0.198121
+2016-04-27 16:39:35 Info: [HTTP] 	 | SIZE = 1479
+2016-04-27 16:39:35 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-27 16:39:35 Info: [HTTP] 	 | STATUS = 200
+2016-04-27 16:39:35 Info: [HTTP] 	 | TIME = 0.19292
+2016-04-27 16:39:35 Info: [HTTP] 	 | SIZE = 1479
+2016-04-27 16:39:35 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-27 16:39:35 Info: [HTTP] 	 | STATUS = 200
+2016-04-27 16:39:35 Info: [HTTP] 	 | TIME = 0.202233
+2016-04-27 16:39:35 Info: [HTTP] 	 | SIZE = 1479
+2016-04-27 16:39:35 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-27 16:39:36 Info: [HTTP] 	 | STATUS = 200
+2016-04-27 16:39:36 Info: [HTTP] 	 | TIME = 0.230995
+2016-04-27 16:39:36 Info: [HTTP] 	 | SIZE = 1479
+2016-04-27 16:39:36 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-27 16:39:36 Info: [HTTP] 	 | STATUS = 200
+2016-04-27 16:39:36 Info: [HTTP] 	 | TIME = 0.231362
+2016-04-27 16:39:36 Info: [HTTP] 	 | SIZE = 1479
+2016-04-27 16:39:36 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-27 16:39:36 Info: [HTTP] 	 | STATUS = 200
+2016-04-27 16:39:36 Info: [HTTP] 	 | TIME = 0.243971
+2016-04-27 16:39:36 Info: [HTTP] 	 | SIZE = 1479
+2016-04-27 16:39:36 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-27 16:39:36 Info: [HTTP] 	 | STATUS = 200
+2016-04-27 16:39:36 Info: [HTTP] 	 | TIME = 0.195102
+2016-04-27 16:39:36 Info: [HTTP] 	 | SIZE = 1479
+2016-04-27 16:39:36 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-27 16:39:37 Info: [HTTP] 	 | STATUS = 200
+2016-04-27 16:39:37 Info: [HTTP] 	 | TIME = 0.219342
+2016-04-27 16:39:37 Info: [HTTP] 	 | SIZE = 1479
+2016-04-27 16:39:37 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-27 16:39:37 Info: [HTTP] 	 | STATUS = 200
+2016-04-27 16:39:37 Info: [HTTP] 	 | TIME = 0.203961
+2016-04-27 16:39:37 Info: [HTTP] 	 | SIZE = 1479
+2016-04-27 16:39:37 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-27 16:39:37 Info: [HTTP] 	 | STATUS = 200
+2016-04-27 16:39:37 Info: [HTTP] 	 | TIME = 0.210917
+2016-04-27 16:39:37 Info: [HTTP] 	 | SIZE = 1479
+2016-04-27 16:39:37 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-27 16:39:37 Info: [HTTP] 	 | STATUS = 200
+2016-04-27 16:39:37 Info: [HTTP] 	 | TIME = 0.212069
+2016-04-27 16:39:37 Info: [HTTP] 	 | SIZE = 1479
+2016-04-27 16:39:37 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-27 16:39:37 Info: [HTTP] 	 | STATUS = 200
+2016-04-27 16:39:37 Info: [HTTP] 	 | TIME = 0.225582
+2016-04-27 16:39:37 Info: [HTTP] 	 | SIZE = 1479
+2016-04-27 16:39:37 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-27 16:39:38 Info: [HTTP] 	 | STATUS = 200
+2016-04-27 16:39:38 Info: [HTTP] 	 | TIME = 0.233586
+2016-04-27 16:39:38 Info: [HTTP] 	 | SIZE = 1479
+2016-04-27 16:39:38 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-27 16:39:38 Info: [HTTP] 	 | STATUS = 200
+2016-04-27 16:39:38 Info: [HTTP] 	 | TIME = 0.236247
+2016-04-27 16:39:38 Info: [HTTP] 	 | SIZE = 1479
+2016-04-27 16:39:38 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-27 16:39:38 Info: [HTTP] 	 | STATUS = 200
+2016-04-27 16:39:38 Info: [HTTP] 	 | TIME = 0.2041
+2016-04-27 16:39:38 Info: [HTTP] 	 | SIZE = 1479
+2016-04-27 16:39:38 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-27 16:39:38 Info: [HTTP] 	 | STATUS = 200
+2016-04-27 16:39:38 Info: [HTTP] 	 | TIME = 0.2343
+2016-04-27 16:39:38 Info: [HTTP] 	 | SIZE = 1479
+2016-04-27 16:39:38 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-27 16:39:39 Info: [HTTP] 	 | STATUS = 200
+2016-04-27 16:39:39 Info: [HTTP] 	 | TIME = 0.216515
+2016-04-27 16:39:39 Info: [HTTP] 	 | SIZE = 1479
+2016-04-27 16:39:39 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-27 16:39:39 Info: [HTTP] 	 | STATUS = 200
+2016-04-27 16:39:39 Info: [HTTP] 	 | TIME = 0.190507
+2016-04-27 16:39:39 Info: [HTTP] 	 | SIZE = 1479
+2016-04-27 16:39:39 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-27 16:39:39 Info: [HTTP] 	 | STATUS = 200
+2016-04-27 16:39:39 Info: [HTTP] 	 | TIME = 0.18868
+2016-04-27 16:39:39 Info: [HTTP] 	 | SIZE = 1479
+2016-04-27 16:39:39 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-27 16:39:39 Info: [HTTP] 	 | STATUS = 200
+2016-04-27 16:39:39 Info: [HTTP] 	 | TIME = 0.207763
+2016-04-27 16:39:39 Info: [HTTP] 	 | SIZE = 1479
+2016-04-27 16:39:39 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-27 16:39:39 Info: [HTTP] 	 | STATUS = 200
+2016-04-27 16:39:39 Info: [HTTP] 	 | TIME = 0.232829
+2016-04-27 16:39:39 Info: [HTTP] 	 | SIZE = 1479
+2016-04-27 16:39:39 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-27 16:39:40 Info: [HTTP] 	 | STATUS = 200
+2016-04-27 16:39:40 Info: [HTTP] 	 | TIME = 0.213502
+2016-04-27 16:39:40 Info: [HTTP] 	 | SIZE = 1479
+2016-04-27 16:39:40 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-27 16:39:40 Info: [HTTP] 	 | STATUS = 200
+2016-04-27 16:39:40 Info: [HTTP] 	 | TIME = 0.237274
+2016-04-27 16:39:40 Info: [HTTP] 	 | SIZE = 1479
+2016-04-27 16:39:40 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-27 16:39:40 Info: [HTTP] 	 | STATUS = 200
+2016-04-27 16:39:40 Info: [HTTP] 	 | TIME = 0.216623
+2016-04-27 16:39:40 Info: [HTTP] 	 | SIZE = 1479
+2016-04-27 16:39:40 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-27 16:39:40 Info: [HTTP] 	 | STATUS = 200
+2016-04-27 16:39:40 Info: [HTTP] 	 | TIME = 0.189679
+2016-04-27 16:39:40 Info: [HTTP] 	 | SIZE = 1479
+2016-04-27 16:39:40 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-27 16:39:41 Info: [HTTP] 	 | STATUS = 200
+2016-04-27 16:39:41 Info: [HTTP] 	 | TIME = 0.219318
+2016-04-27 16:39:41 Info: [HTTP] 	 | SIZE = 1479
+2016-04-27 16:39:41 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-27 16:39:41 Info: [HTTP] 	 | STATUS = 200
+2016-04-27 16:39:41 Info: [HTTP] 	 | TIME = 0.263098
+2016-04-27 16:39:41 Info: [HTTP] 	 | SIZE = 1479
+2016-04-27 16:39:41 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-27 16:39:41 Info: [HTTP] 	 | STATUS = 200
+2016-04-27 16:39:41 Info: [HTTP] 	 | TIME = 0.212609
+2016-04-27 16:39:41 Info: [HTTP] 	 | SIZE = 1479
+2016-04-27 16:39:41 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-27 16:39:41 Info: [HTTP] 	 | STATUS = 200
+2016-04-27 16:39:41 Info: [HTTP] 	 | TIME = 0.205929
+2016-04-27 16:39:41 Info: [HTTP] 	 | SIZE = 1479
+2016-04-27 16:39:41 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-27 16:39:41 Info: [HTTP] 	 | STATUS = 200
+2016-04-27 16:39:41 Info: [HTTP] 	 | TIME = 0.210186
+2016-04-27 16:39:41 Info: [HTTP] 	 | SIZE = 1479
+2016-04-27 16:39:41 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-27 16:39:42 Info: [HTTP] 	 | STATUS = 200
+2016-04-27 16:39:42 Info: [HTTP] 	 | TIME = 0.197134
+2016-04-27 16:39:42 Info: [HTTP] 	 | SIZE = 1479
+2016-04-27 16:39:42 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-27 16:39:42 Info: [HTTP] 	 | STATUS = 200
+2016-04-27 16:39:42 Info: [HTTP] 	 | TIME = 0.198132
+2016-04-27 16:39:42 Info: [HTTP] 	 | SIZE = 1479
+2016-04-27 16:39:42 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-27 16:39:42 Info: [HTTP] 	 | STATUS = 200
+2016-04-27 16:39:42 Info: [HTTP] 	 | TIME = 0.176697
+2016-04-27 16:39:42 Info: [HTTP] 	 | SIZE = 1479
+2016-04-27 16:39:42 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-27 16:39:42 Info: [HTTP] 	 | STATUS = 200
+2016-04-27 16:39:42 Info: [HTTP] 	 | TIME = 0.195688
+2016-04-27 16:39:42 Info: [HTTP] 	 | SIZE = 1479
+2016-04-27 16:39:42 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-27 16:39:43 Info: [HTTP] 	 | STATUS = 200
+2016-04-27 16:39:43 Info: [HTTP] 	 | TIME = 0.236072
+2016-04-27 16:39:43 Info: [HTTP] 	 | SIZE = 1479
+2016-04-27 16:39:43 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-27 16:39:43 Info: [HTTP] 	 | STATUS = 200
+2016-04-27 16:39:43 Info: [HTTP] 	 | TIME = 0.249409
+2016-04-27 16:39:43 Info: [HTTP] 	 | SIZE = 1479
+2016-04-27 16:39:43 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-27 16:39:43 Info: [HTTP] 	 | STATUS = 200
+2016-04-27 16:39:43 Info: [HTTP] 	 | TIME = 0.190857
+2016-04-27 16:39:43 Info: [HTTP] 	 | SIZE = 1479
+2016-04-27 16:39:43 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-27 16:39:43 Info: [HTTP] 	 | STATUS = 200
+2016-04-27 16:39:43 Info: [HTTP] 	 | TIME = 0.197425
+2016-04-27 16:39:43 Info: [HTTP] 	 | SIZE = 1479
+2016-04-27 16:39:43 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-27 16:39:44 Info: [HTTP] 	 | STATUS = 200
+2016-04-27 16:39:44 Info: [HTTP] 	 | TIME = 0.920179
+2016-04-27 16:39:44 Info: [HTTP] 	 | SIZE = 1479
+2016-04-27 16:39:44 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-27 16:39:44 Info: [HTTP] 	 | STATUS = 200
+2016-04-27 16:39:44 Info: [HTTP] 	 | TIME = 0.209772
+2016-04-27 16:39:44 Info: [HTTP] 	 | SIZE = 1479
+2016-04-27 16:39:44 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-27 16:39:45 Info: [HTTP] 	 | STATUS = 200
+2016-04-27 16:39:45 Info: [HTTP] 	 | TIME = 0.225287
+2016-04-27 16:39:45 Info: [HTTP] 	 | SIZE = 1479
+2016-04-27 16:39:45 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-27 16:39:45 Info: [HTTP] 	 | STATUS = 200
+2016-04-27 16:39:45 Info: [HTTP] 	 | TIME = 0.231123
+2016-04-27 16:39:45 Info: [HTTP] 	 | SIZE = 1479
+2016-04-27 16:39:45 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-27 16:39:45 Info: [HTTP] 	 | STATUS = 200
+2016-04-27 16:39:45 Info: [HTTP] 	 | TIME = 0.200436
+2016-04-27 16:39:45 Info: [HTTP] 	 | SIZE = 1479
+2016-04-27 16:39:45 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-27 16:39:45 Info: [HTTP] 	 | STATUS = 200
+2016-04-27 16:39:45 Info: [HTTP] 	 | TIME = 0.227839
+2016-04-27 16:39:45 Info: [HTTP] 	 | SIZE = 1479
+2016-04-27 16:39:45 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-27 16:39:46 Info: [HTTP] 	 | STATUS = 200
+2016-04-27 16:39:46 Info: [HTTP] 	 | TIME = 0.204195
+2016-04-27 16:39:46 Info: [HTTP] 	 | SIZE = 1479
+2016-04-27 16:39:46 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-27 16:39:46 Info: [HTTP] 	 | STATUS = 200
+2016-04-27 16:39:46 Info: [HTTP] 	 | TIME = 0.25717
+2016-04-27 16:39:46 Info: [HTTP] 	 | SIZE = 1479
+2016-04-27 16:39:46 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-27 16:39:46 Info: [HTTP] 	 | STATUS = 200
+2016-04-27 16:39:46 Info: [HTTP] 	 | TIME = 0.22271
+2016-04-27 16:39:46 Info: [HTTP] 	 | SIZE = 1479
+2016-04-27 16:39:46 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-27 16:39:47 Info: [HTTP] 	 | STATUS = 200
+2016-04-27 16:39:47 Info: [HTTP] 	 | TIME = 0.685892
+2016-04-27 16:39:47 Info: [HTTP] 	 | SIZE = 1479
+2016-04-27 16:39:47 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-27 16:39:47 Info: [HTTP] 	 | STATUS = 200
+2016-04-27 16:39:47 Info: [HTTP] 	 | TIME = 0.215005
+2016-04-27 16:39:47 Info: [HTTP] 	 | SIZE = 1479
+2016-04-27 16:39:47 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-27 16:39:47 Info: [HTTP] 	 | STATUS = 200
+2016-04-27 16:39:47 Info: [HTTP] 	 | TIME = 0.182119
+2016-04-27 16:39:47 Info: [HTTP] 	 | SIZE = 1479
+2016-04-27 16:39:47 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-27 16:39:47 Info: [HTTP] 	 | STATUS = 200
+2016-04-27 16:39:47 Info: [HTTP] 	 | TIME = 0.211058
+2016-04-27 16:39:47 Info: [HTTP] 	 | SIZE = 1479
+2016-04-27 16:39:47 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-27 16:39:48 Info: [HTTP] 	 | STATUS = 200
+2016-04-27 16:39:48 Info: [HTTP] 	 | TIME = 0.20941
+2016-04-27 16:39:48 Info: [HTTP] 	 | SIZE = 1479
+2016-04-27 16:39:48 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-27 16:39:48 Info: [HTTP] 	 | STATUS = 200
+2016-04-27 16:39:48 Info: [HTTP] 	 | TIME = 0.575285
+2016-04-27 16:39:48 Info: [HTTP] 	 | SIZE = 1479
+2016-04-27 16:39:48 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-27 16:39:49 Info: [HTTP] 	 | STATUS = 200
+2016-04-27 16:39:49 Info: [HTTP] 	 | TIME = 0.321066
+2016-04-27 16:39:49 Info: [HTTP] 	 | SIZE = 1479
+2016-04-27 16:39:49 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-27 16:39:49 Info: [HTTP] 	 | STATUS = 200
+2016-04-27 16:39:49 Info: [HTTP] 	 | TIME = 0.193557
+2016-04-27 16:39:49 Info: [HTTP] 	 | SIZE = 1479
+2016-04-27 16:39:49 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-27 16:39:49 Info: [HTTP] 	 | STATUS = 200
+2016-04-27 16:39:49 Info: [HTTP] 	 | TIME = 0.269375
+2016-04-27 16:39:49 Info: [HTTP] 	 | SIZE = 1479
+2016-04-27 16:39:49 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-27 16:39:49 Info: [HTTP] 	 | STATUS = 200
+2016-04-27 16:39:49 Info: [HTTP] 	 | TIME = 0.219156
+2016-04-27 16:39:49 Info: [HTTP] 	 | SIZE = 1479
+2016-04-27 16:39:49 Info: [HTTP] GET:http://fonts.googleapis.com:80/robots.txt
+2016-04-27 16:39:50 Info: [HTTP] 	 | STATUS = 200
+2016-04-27 16:39:50 Info: [HTTP] 	 | TIME = 0.379471
+2016-04-27 16:39:50 Info: [HTTP] 	 | SIZE = 25
+2016-04-27 16:39:50 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-27 16:39:50 Info: [HTTP] 	 | STATUS = 200
+2016-04-27 16:39:50 Info: [HTTP] 	 | TIME = 0.222983
+2016-04-27 16:39:50 Info: [HTTP] 	 | SIZE = 1479
+2016-04-27 16:39:50 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-27 16:39:50 Info: [HTTP] 	 | STATUS = 200
+2016-04-27 16:39:50 Info: [HTTP] 	 | TIME = 0.210845
+2016-04-27 16:39:50 Info: [HTTP] 	 | SIZE = 1479
+2016-04-27 16:39:50 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-27 16:39:50 Info: [HTTP] 	 | STATUS = 200
+2016-04-27 16:39:50 Info: [HTTP] 	 | TIME = 0.241405
+2016-04-27 16:39:50 Info: [HTTP] 	 | SIZE = 1479
+2016-04-27 16:39:50 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-27 16:39:51 Info: [HTTP] 	 | STATUS = 200
+2016-04-27 16:39:51 Info: [HTTP] 	 | TIME = 0.240438
+2016-04-27 16:39:51 Info: [HTTP] 	 | SIZE = 1479
+2016-04-27 16:39:51 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-27 16:39:51 Info: [HTTP] 	 | STATUS = 200
+2016-04-27 16:39:51 Info: [HTTP] 	 | TIME = 0.208049
+2016-04-27 16:39:51 Info: [HTTP] 	 | SIZE = 1479
+2016-04-27 16:39:51 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-27 16:39:51 Info: [HTTP] 	 | STATUS = 200
+2016-04-27 16:39:51 Info: [HTTP] 	 | TIME = 0.221283
+2016-04-27 16:39:51 Info: [HTTP] 	 | SIZE = 1479
+2016-04-27 16:39:51 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-27 16:39:51 Info: [HTTP] 	 | STATUS = 200
+2016-04-27 16:39:51 Info: [HTTP] 	 | TIME = 0.238173
+2016-04-27 16:39:51 Info: [HTTP] 	 | SIZE = 1479
+2016-04-27 16:39:51 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-27 16:39:52 Info: [HTTP] 	 | STATUS = 200
+2016-04-27 16:39:52 Info: [HTTP] 	 | TIME = 0.225614
+2016-04-27 16:39:52 Info: [HTTP] 	 | SIZE = 1479
+2016-04-27 16:39:52 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-27 16:39:52 Info: [HTTP] 	 | STATUS = 200
+2016-04-27 16:39:52 Info: [HTTP] 	 | TIME = 0.237599
+2016-04-27 16:39:52 Info: [HTTP] 	 | SIZE = 1479
+2016-04-27 16:39:52 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-27 16:39:52 Info: [HTTP] 	 | STATUS = 200
+2016-04-27 16:39:52 Info: [HTTP] 	 | TIME = 0.166995
+2016-04-27 16:39:52 Info: [HTTP] 	 | SIZE = 1479
+2016-04-27 16:39:52 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-27 16:39:52 Info: [HTTP] 	 | STATUS = 200
+2016-04-27 16:39:52 Info: [HTTP] 	 | TIME = 0.189871
+2016-04-27 16:39:52 Info: [HTTP] 	 | SIZE = 1479
+2016-04-27 16:39:52 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-27 16:39:52 Info: [HTTP] 	 | STATUS = 200
+2016-04-27 16:39:52 Info: [HTTP] 	 | TIME = 0.188373
+2016-04-27 16:39:52 Info: [HTTP] 	 | SIZE = 1479
+2016-04-27 16:39:52 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-27 16:39:53 Info: [HTTP] 	 | STATUS = 200
+2016-04-27 16:39:53 Info: [HTTP] 	 | TIME = 0.198585
+2016-04-27 16:39:53 Info: [HTTP] 	 | SIZE = 1479
+2016-04-27 16:39:53 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-27 16:39:53 Info: [HTTP] 	 | STATUS = 200
+2016-04-27 16:39:53 Info: [HTTP] 	 | TIME = 0.246753
+2016-04-27 16:39:53 Info: [HTTP] 	 | SIZE = 1479
+2016-04-27 16:39:53 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-27 16:39:53 Info: [HTTP] 	 | STATUS = 200
+2016-04-27 16:39:53 Info: [HTTP] 	 | TIME = 0.244355
+2016-04-27 16:39:53 Info: [HTTP] 	 | SIZE = 1479
+2016-04-27 16:39:53 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-27 16:39:53 Info: [HTTP] 	 | STATUS = 200
+2016-04-27 16:39:53 Info: [HTTP] 	 | TIME = 0.164898
+2016-04-27 16:39:53 Info: [HTTP] 	 | SIZE = 1479
+2016-04-27 16:39:53 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-27 16:39:54 Info: [HTTP] 	 | STATUS = 200
+2016-04-27 16:39:54 Info: [HTTP] 	 | TIME = 0.232245
+2016-04-27 16:39:54 Info: [HTTP] 	 | SIZE = 1479
+2016-04-27 16:39:54 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-27 16:39:54 Info: [HTTP] 	 | STATUS = 200
+2016-04-27 16:39:54 Info: [HTTP] 	 | TIME = 0.254203
+2016-04-27 16:39:54 Info: [HTTP] 	 | SIZE = 1479
+2016-04-27 16:39:54 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-27 16:39:54 Info: [HTTP] 	 | STATUS = 200
+2016-04-27 16:39:54 Info: [HTTP] 	 | TIME = 0.202858
+2016-04-27 16:39:54 Info: [HTTP] 	 | SIZE = 1479
+2016-04-27 16:39:54 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-27 16:39:54 Info: [HTTP] 	 | STATUS = 200
+2016-04-27 16:39:54 Info: [HTTP] 	 | TIME = 0.192579
+2016-04-27 16:39:54 Info: [HTTP] 	 | SIZE = 1479
+2016-04-27 16:39:54 Info: [HTTP] GET:https://www.pol.una.py:443/robots.txt
+2016-04-27 16:39:55 Info: [HTTP] 	 | STATUS = 0
+2016-04-27 16:39:55 Info: [HTTP] 	 | TIME = 0.124503
+2016-04-27 16:39:55 Info: [HTTP] 	 | SIZE = 0
+2016-04-27 16:39:55 Info: [HTTP] 	 | ERROR = 7
+2016-04-27 16:39:55 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-27 16:39:55 Info: [HTTP] 	 | STATUS = 200
+2016-04-27 16:39:55 Info: [HTTP] 	 | TIME = 0.220802
+2016-04-27 16:39:55 Info: [HTTP] 	 | SIZE = 1479
+2016-04-27 16:39:55 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-27 16:39:55 Info: [HTTP] 	 | STATUS = 200
+2016-04-27 16:39:55 Info: [HTTP] 	 | TIME = 0.193188
+2016-04-27 16:39:55 Info: [HTTP] 	 | SIZE = 1479
+2016-04-27 16:39:55 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-27 16:39:57 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-27 16:39:57 Info: [HTTP] 	 | STATUS = 200
+2016-04-27 16:39:57 Info: [HTTP] 	 | TIME = 0.282733
+2016-04-27 16:39:57 Info: [HTTP] 	 | SIZE = 1479
+2016-04-27 16:39:57 Info: [HTTP] GET:http://www.pol.una.py:80/
+2016-04-27 16:39:58 Info: [HTTP] 	 | STATUS = 200
+2016-04-27 16:39:58 Info: [HTTP] 	 | TIME = 1.189569
+2016-04-27 16:39:58 Info: [HTTP] 	 | SIZE = 42178
+2016-04-27 16:39:58 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-27 16:39:58 Info: [HTTP] 	 | STATUS = 200
+2016-04-27 16:39:58 Info: [HTTP] 	 | TIME = 0.22724
+2016-04-27 16:39:58 Info: [HTTP] 	 | SIZE = 1479
+2016-04-27 16:39:58 Info: [HTTP] GET:http://www.pol.una.py:80/abigrap/
+2016-04-27 16:40:02 Info: [HTTP] 	 | STATUS = 503
+2016-04-27 16:40:02 Info: [HTTP] 	 | TIME = 3.186279
+2016-04-27 16:40:02 Info: [HTTP] 	 | SIZE = 323
+2016-04-27 16:40:02 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-27 16:40:02 Info: [HTTP] 	 | STATUS = 200
+2016-04-27 16:40:02 Info: [HTTP] 	 | TIME = 0.192788
+2016-04-27 16:40:02 Info: [HTTP] 	 | SIZE = 1479
+2016-04-27 16:40:02 Info: [HTTP] GET:http://www.pol.una.py:80/cia/
+2016-04-27 16:40:03 Info: [HTTP] 	 | STATUS = 200
+2016-04-27 16:40:03 Info: [HTTP] 	 | TIME = 0.669876
+2016-04-27 16:40:03 Info: [HTTP] 	 | SIZE = 25390
+2016-04-27 16:40:03 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-27 16:40:03 Info: [HTTP] 	 | STATUS = 200
+2016-04-27 16:40:03 Info: [HTTP] 	 | TIME = 0.182575
+2016-04-27 16:40:03 Info: [HTTP] 	 | SIZE = 1479
+2016-04-27 16:40:03 Info: [HTTP] GET:http://www.pol.una.py:80/emprendedores/
+2016-04-27 16:40:03 Info: [HTTP] 	 | STATUS = 200
+2016-04-27 16:40:03 Info: [HTTP] 	 | TIME = 0.277058
+2016-04-27 16:40:03 Info: [HTTP] 	 | SIZE = 8480
+2016-04-27 16:40:03 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-27 16:40:03 Info: [HTTP] 	 | STATUS = 200
+2016-04-27 16:40:03 Info: [HTTP] 	 | TIME = 0.235188
+2016-04-27 16:40:03 Info: [HTTP] 	 | SIZE = 1479
+2016-04-27 16:40:03 Info: [HTTP] GET:http://www.pol.una.py:80/etyc2015/
+2016-04-27 16:40:04 Info: [HTTP] 	 | STATUS = 200
+2016-04-27 16:40:04 Info: [HTTP] 	 | TIME = 0.555779
+2016-04-27 16:40:04 Info: [HTTP] 	 | SIZE = 50058
+2016-04-27 16:40:04 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-27 16:40:04 Info: [HTTP] 	 | STATUS = 200
+2016-04-27 16:40:04 Info: [HTTP] 	 | TIME = 0.178993
+2016-04-27 16:40:04 Info: [HTTP] 	 | SIZE = 1479
+2016-04-27 16:40:04 Info: [HTTP] GET:http://www.pol.una.py:80/cursosverano/
+2016-04-27 16:40:05 Info: [HTTP] 	 | STATUS = 200
+2016-04-27 16:40:05 Info: [HTTP] 	 | TIME = 0.606801
+2016-04-27 16:40:05 Info: [HTTP] 	 | SIZE = 21618
+2016-04-27 16:40:05 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-27 16:40:05 Info: [HTTP] 	 | STATUS = 200
+2016-04-27 16:40:05 Info: [HTTP] 	 | TIME = 0.174564
+2016-04-27 16:40:05 Info: [HTTP] 	 | SIZE = 1479
+2016-04-27 16:40:05 Info: [HTTP] GET:http://www.pol.una.py:80/
+2016-04-27 16:40:06 Info: [HTTP] 	 | STATUS = 200
+2016-04-27 16:40:06 Info: [HTTP] 	 | TIME = 0.961479
+2016-04-27 16:40:06 Info: [HTTP] 	 | SIZE = 42081
+2016-04-27 16:40:06 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-27 16:40:06 Info: [HTTP] 	 | STATUS = 200
+2016-04-27 16:40:06 Info: [HTTP] 	 | TIME = 0.238922
+2016-04-27 16:40:06 Info: [HTTP] 	 | SIZE = 1479
+2016-04-27 16:40:06 Info: [HTTP] GET:http://www.pol.una.py:80/certificados/
+2016-04-27 16:40:07 Info: [HTTP] 	 | STATUS = 404
+2016-04-27 16:40:07 Info: [HTTP] 	 | TIME = 0.231599
+2016-04-27 16:40:07 Info: [HTTP] 	 | SIZE = 211
+2016-04-27 16:40:07 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-27 16:40:07 Info: [HTTP] 	 | STATUS = 200
+2016-04-27 16:40:07 Info: [HTTP] 	 | TIME = 0.210704
+2016-04-27 16:40:07 Info: [HTTP] 	 | SIZE = 1479
+2016-04-27 16:40:07 Info: [HTTP] GET:http://www.pol.una.py:80/cursosverano/inscripciones/nuevo/
+2016-04-27 16:40:08 Info: [HTTP] 	 | STATUS = 200
+2016-04-27 16:40:08 Info: [HTTP] 	 | TIME = 1.029706
+2016-04-27 16:40:08 Info: [HTTP] 	 | SIZE = 27732
+2016-04-27 16:40:08 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-27 16:40:08 Info: [HTTP] 	 | STATUS = 200
+2016-04-27 16:40:08 Info: [HTTP] 	 | TIME = 0.182569
+2016-04-27 16:40:08 Info: [HTTP] 	 | SIZE = 1479
+2016-04-27 16:40:08 Info: [HTTP] GET:http://www.pol.una.py:80/cursosverano/2016_certificados/
+2016-04-27 16:40:08 Info: [HTTP] 	 | STATUS = 200
+2016-04-27 16:40:08 Info: [HTTP] 	 | TIME = 0.215728
+2016-04-27 16:40:08 Info: [HTTP] 	 | SIZE = 1065
+2016-04-27 16:40:09 Info: [HTTP] GET:http://c.statcounter.com:80/robots.txt
+2016-04-27 16:40:09 Info: [HTTP] 	 | STATUS = 200
+2016-04-27 16:40:09 Info: [HTTP] 	 | TIME = 0.755148
+2016-04-27 16:40:09 Info: [HTTP] 	 | SIZE = 26
+2016-04-27 16:40:09 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-27 16:40:10 Info: [HTTP] 	 | STATUS = 200
+2016-04-27 16:40:10 Info: [HTTP] 	 | TIME = 0.221511
+2016-04-27 16:40:10 Info: [HTTP] 	 | SIZE = 1479
+2016-04-27 16:40:10 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-27 16:40:10 Info: [HTTP] 	 | STATUS = 200
+2016-04-27 16:40:10 Info: [HTTP] 	 | TIME = 0.257236
+2016-04-27 16:40:10 Info: [HTTP] 	 | SIZE = 1479
+2016-04-27 16:40:10 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-27 16:40:10 Info: [HTTP] 	 | STATUS = 200
+2016-04-27 16:40:10 Info: [HTTP] 	 | TIME = 0.218915
+2016-04-27 16:40:10 Info: [HTTP] 	 | SIZE = 1479
+2016-04-27 16:40:10 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-27 16:40:10 Info: [HTTP] 	 | STATUS = 200
+2016-04-27 16:40:10 Info: [HTTP] 	 | TIME = 0.188078
+2016-04-27 16:40:10 Info: [HTTP] 	 | SIZE = 1479
+2016-04-27 16:40:10 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-27 16:40:10 Info: [HTTP] 	 | STATUS = 200
+2016-04-27 16:40:10 Info: [HTTP] 	 | TIME = 0.204356
+2016-04-27 16:40:10 Info: [HTTP] 	 | SIZE = 1479
+2016-04-27 16:40:10 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-27 16:40:11 Info: [HTTP] 	 | STATUS = 200
+2016-04-27 16:40:11 Info: [HTTP] 	 | TIME = 0.234239
+2016-04-27 16:40:11 Info: [HTTP] 	 | SIZE = 1479
+2016-04-27 16:40:11 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-27 16:40:11 Info: [HTTP] 	 | STATUS = 200
+2016-04-27 16:40:11 Info: [HTTP] 	 | TIME = 0.229703
+2016-04-27 16:40:11 Info: [HTTP] 	 | SIZE = 1479
+2016-04-27 16:40:11 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-27 16:40:11 Info: [HTTP] 	 | STATUS = 200
+2016-04-27 16:40:11 Info: [HTTP] 	 | TIME = 0.23604
+2016-04-27 16:40:11 Info: [HTTP] 	 | SIZE = 1479
+2016-04-27 16:40:11 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-27 16:40:12 Info: [HTTP] 	 | STATUS = 200
+2016-04-27 16:40:12 Info: [HTTP] 	 | TIME = 0.521682
+2016-04-27 16:40:12 Info: [HTTP] 	 | SIZE = 1479
+2016-04-27 16:40:12 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-27 16:42:09 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-27 16:42:10 Info: [HTTP] 	 | STATUS = 200
+2016-04-27 16:42:10 Info: [HTTP] 	 | TIME = 1.722866
+2016-04-27 16:42:10 Info: [HTTP] 	 | SIZE = 1479
+2016-04-27 16:42:10 Info: [HTTP] GET:http://www.pol.una.py:80/
+2016-04-27 16:42:11 Info: [HTTP] 	 | STATUS = 200
+2016-04-27 16:42:11 Info: [HTTP] 	 | TIME = 1.217499
+2016-04-27 16:42:11 Info: [HTTP] 	 | SIZE = 42178
+2016-04-27 16:42:12 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-27 16:42:12 Info: [HTTP] 	 | STATUS = 200
+2016-04-27 16:42:12 Info: [HTTP] 	 | TIME = 0.209067
+2016-04-27 16:42:12 Info: [HTTP] 	 | SIZE = 1479
+2016-04-27 16:42:12 Info: [HTTP] GET:http://www.pol.una.py:80/abigrap/
+2016-04-27 16:42:16 Info: [HTTP] 	 | STATUS = 503
+2016-04-27 16:42:16 Info: [HTTP] 	 | TIME = 4.305236
+2016-04-27 16:42:16 Info: [HTTP] 	 | SIZE = 323
+2016-04-27 16:42:16 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-27 16:42:16 Info: [HTTP] 	 | STATUS = 200
+2016-04-27 16:42:16 Info: [HTTP] 	 | TIME = 0.253384
+2016-04-27 16:42:16 Info: [HTTP] 	 | SIZE = 1479
+2016-04-27 16:42:17 Info: [HTTP] GET:http://www.pol.una.py:80/cia/
+2016-04-28 10:24:47 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-28 10:24:47 Info: [HTTP] 	 | STATUS = 200
+2016-04-28 10:24:47 Info: [HTTP] 	 | TIME = 0.255901
+2016-04-28 10:24:47 Info: [HTTP] 	 | SIZE = 1479
+2016-04-28 10:24:47 Info: [HTTP] GET:http://www.pol.una.py:80/
+2016-04-28 10:24:48 Info: [HTTP] 	 | STATUS = 200
+2016-04-28 10:24:48 Info: [HTTP] 	 | TIME = 0.731862
+2016-04-28 10:24:48 Info: [HTTP] 	 | SIZE = 42081
+2016-04-28 10:26:16 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-28 10:26:17 Info: [HTTP] 	 | STATUS = 200
+2016-04-28 10:26:17 Info: [HTTP] 	 | TIME = 0.368751
+2016-04-28 10:26:17 Info: [HTTP] 	 | SIZE = 1479
+2016-04-28 10:26:17 Info: [HTTP] GET:http://www.pol.una.py:80/
+2016-04-28 10:26:17 Info: [HTTP] 	 | STATUS = 200
+2016-04-28 10:26:17 Info: [HTTP] 	 | TIME = 0.86153
+2016-04-28 10:26:17 Info: [HTTP] 	 | SIZE = 42081
+2016-04-28 10:26:18 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-28 10:26:18 Info: [HTTP] 	 | STATUS = 200
+2016-04-28 10:26:18 Info: [HTTP] 	 | TIME = 0.163882
+2016-04-28 10:26:18 Info: [HTTP] 	 | SIZE = 1479
+2016-04-28 10:26:18 Info: [HTTP] GET:http://www.pol.una.py:80/abigrap/
+2016-04-28 10:26:21 Info: [HTTP] 	 | STATUS = 503
+2016-04-28 10:26:21 Info: [HTTP] 	 | TIME = 3.362786
+2016-04-28 10:26:21 Info: [HTTP] 	 | SIZE = 299
+2016-04-28 10:26:21 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-28 10:26:21 Info: [HTTP] 	 | STATUS = 200
+2016-04-28 10:26:21 Info: [HTTP] 	 | TIME = 0.137059
+2016-04-28 10:26:21 Info: [HTTP] 	 | SIZE = 1479
+2016-04-28 10:26:21 Info: [HTTP] GET:http://www.pol.una.py:80/cia/
+2016-04-28 10:26:22 Info: [HTTP] 	 | STATUS = 200
+2016-04-28 10:26:22 Info: [HTTP] 	 | TIME = 0.398715
+2016-04-28 10:26:22 Info: [HTTP] 	 | SIZE = 25390
+2016-04-28 10:26:22 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-28 10:26:22 Info: [HTTP] 	 | STATUS = 200
+2016-04-28 10:26:22 Info: [HTTP] 	 | TIME = 0.142043
+2016-04-28 10:26:22 Info: [HTTP] 	 | SIZE = 1479
+2016-04-28 10:26:22 Info: [HTTP] GET:http://www.pol.una.py:80/emprendedores/
+2016-04-28 10:26:22 Info: [HTTP] 	 | STATUS = 200
+2016-04-28 10:26:22 Info: [HTTP] 	 | TIME = 0.240212
+2016-04-28 10:26:22 Info: [HTTP] 	 | SIZE = 8480
+2016-04-28 10:26:23 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-28 10:26:23 Info: [HTTP] 	 | STATUS = 200
+2016-04-28 10:26:23 Info: [HTTP] 	 | TIME = 0.134266
+2016-04-28 10:26:23 Info: [HTTP] 	 | SIZE = 1479
+2016-04-28 10:26:23 Info: [HTTP] GET:http://www.pol.una.py:80/etyc2015/
+2016-04-28 10:26:23 Info: [HTTP] 	 | STATUS = 200
+2016-04-28 10:26:23 Info: [HTTP] 	 | TIME = 0.27793
+2016-04-28 10:26:23 Info: [HTTP] 	 | SIZE = 50058
+2016-04-28 10:26:23 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-28 10:26:23 Info: [HTTP] 	 | STATUS = 200
+2016-04-28 10:26:23 Info: [HTTP] 	 | TIME = 0.114306
+2016-04-28 10:26:23 Info: [HTTP] 	 | SIZE = 1479
+2016-04-28 10:26:23 Info: [HTTP] GET:http://www.pol.una.py:80/cursosverano/
+2016-04-28 10:26:24 Info: [HTTP] 	 | STATUS = 200
+2016-04-28 10:26:24 Info: [HTTP] 	 | TIME = 0.521982
+2016-04-28 10:26:24 Info: [HTTP] 	 | SIZE = 21623
+2016-04-28 10:26:24 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-28 10:26:24 Info: [HTTP] 	 | STATUS = 200
+2016-04-28 10:26:24 Info: [HTTP] 	 | TIME = 0.106808
+2016-04-28 10:26:24 Info: [HTTP] 	 | SIZE = 1479
+2016-04-28 10:26:24 Info: [HTTP] GET:http://www.pol.una.py:80/
+2016-04-28 10:26:25 Info: [HTTP] 	 | STATUS = 200
+2016-04-28 10:26:25 Info: [HTTP] 	 | TIME = 0.831388
+2016-04-28 10:26:25 Info: [HTTP] 	 | SIZE = 42081
+2016-04-28 10:26:25 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-28 10:26:25 Info: [HTTP] 	 | STATUS = 200
+2016-04-28 10:26:25 Info: [HTTP] 	 | TIME = 0.110577
+2016-04-28 10:26:25 Info: [HTTP] 	 | SIZE = 1479
+2016-04-28 10:26:25 Info: [HTTP] GET:http://www.pol.una.py:80/certificados/
+2016-04-28 10:26:25 Info: [HTTP] 	 | STATUS = 404
+2016-04-28 10:26:25 Info: [HTTP] 	 | TIME = 0.14948
+2016-04-28 10:26:25 Info: [HTTP] 	 | SIZE = 211
+2016-04-28 10:26:25 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-28 10:26:25 Info: [HTTP] 	 | STATUS = 200
+2016-04-28 10:26:25 Info: [HTTP] 	 | TIME = 0.124917
+2016-04-28 10:26:25 Info: [HTTP] 	 | SIZE = 1479
+2016-04-28 10:26:25 Info: [HTTP] GET:http://www.pol.una.py:80/cursosverano/inscripciones/nuevo/
+2016-04-28 10:26:26 Info: [HTTP] 	 | STATUS = 200
+2016-04-28 10:26:26 Info: [HTTP] 	 | TIME = 0.72624
+2016-04-28 10:26:26 Info: [HTTP] 	 | SIZE = 27732
+2016-04-28 10:26:26 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-28 10:26:26 Info: [HTTP] 	 | STATUS = 200
+2016-04-28 10:26:26 Info: [HTTP] 	 | TIME = 0.135891
+2016-04-28 10:26:26 Info: [HTTP] 	 | SIZE = 1479
+2016-04-28 10:26:26 Info: [HTTP] GET:http://www.pol.una.py:80/cursosverano/2016_certificados/
+2016-04-28 10:26:26 Info: [HTTP] 	 | STATUS = 200
+2016-04-28 10:26:26 Info: [HTTP] 	 | TIME = 0.105549
+2016-04-28 10:26:26 Info: [HTTP] 	 | SIZE = 1065
+2016-04-28 10:26:27 Info: [HTTP] GET:http://c.statcounter.com:80/robots.txt
+2016-04-28 10:26:27 Info: [HTTP] 	 | STATUS = 200
+2016-04-28 10:26:27 Info: [HTTP] 	 | TIME = 0.631601
+2016-04-28 10:26:27 Info: [HTTP] 	 | SIZE = 26
+2016-04-28 10:26:27 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-28 10:26:27 Info: [HTTP] 	 | STATUS = 200
+2016-04-28 10:26:27 Info: [HTTP] 	 | TIME = 0.134551
+2016-04-28 10:26:27 Info: [HTTP] 	 | SIZE = 1479
+2016-04-28 10:26:27 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-28 10:26:27 Info: [HTTP] 	 | STATUS = 200
+2016-04-28 10:26:27 Info: [HTTP] 	 | TIME = 0.140583
+2016-04-28 10:26:27 Info: [HTTP] 	 | SIZE = 1479
+2016-04-28 10:26:27 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-28 10:26:28 Info: [HTTP] 	 | STATUS = 200
+2016-04-28 10:26:28 Info: [HTTP] 	 | TIME = 0.121336
+2016-04-28 10:26:28 Info: [HTTP] 	 | SIZE = 1479
+2016-04-28 10:26:28 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-28 10:26:28 Info: [HTTP] 	 | STATUS = 200
+2016-04-28 10:26:28 Info: [HTTP] 	 | TIME = 0.129523
+2016-04-28 10:26:28 Info: [HTTP] 	 | SIZE = 1479
+2016-04-28 10:26:28 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-28 10:26:28 Info: [HTTP] 	 | STATUS = 200
+2016-04-28 10:26:28 Info: [HTTP] 	 | TIME = 0.139757
+2016-04-28 10:26:28 Info: [HTTP] 	 | SIZE = 1479
+2016-04-28 10:26:28 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-28 10:26:28 Info: [HTTP] 	 | STATUS = 200
+2016-04-28 10:26:28 Info: [HTTP] 	 | TIME = 0.153561
+2016-04-28 10:26:28 Info: [HTTP] 	 | SIZE = 1479
+2016-04-28 10:26:28 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-28 10:26:28 Info: [HTTP] 	 | STATUS = 200
+2016-04-28 10:26:28 Info: [HTTP] 	 | TIME = 0.129081
+2016-04-28 10:26:28 Info: [HTTP] 	 | SIZE = 1479
+2016-04-28 10:26:28 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-28 10:26:28 Info: [HTTP] 	 | STATUS = 200
+2016-04-28 10:26:28 Info: [HTTP] 	 | TIME = 0.121497
+2016-04-28 10:26:28 Info: [HTTP] 	 | SIZE = 1479
+2016-04-28 10:26:28 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-28 10:26:28 Info: [HTTP] 	 | STATUS = 200
+2016-04-28 10:26:28 Info: [HTTP] 	 | TIME = 0.116827
+2016-04-28 10:26:28 Info: [HTTP] 	 | SIZE = 1479
+2016-04-28 10:26:28 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-28 10:26:29 Info: [HTTP] 	 | STATUS = 200
+2016-04-28 10:26:29 Info: [HTTP] 	 | TIME = 0.154693
+2016-04-28 10:26:29 Info: [HTTP] 	 | SIZE = 1479
+2016-04-28 10:26:29 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-28 10:26:29 Info: [HTTP] 	 | STATUS = 200
+2016-04-28 10:26:29 Info: [HTTP] 	 | TIME = 0.133194
+2016-04-28 10:26:29 Info: [HTTP] 	 | SIZE = 1479
+2016-04-28 10:26:29 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-28 10:26:29 Info: [HTTP] 	 | STATUS = 200
+2016-04-28 10:26:29 Info: [HTTP] 	 | TIME = 0.129489
+2016-04-28 10:26:29 Info: [HTTP] 	 | SIZE = 1479
+2016-04-28 10:26:29 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-28 10:26:29 Info: [HTTP] 	 | STATUS = 200
+2016-04-28 10:26:29 Info: [HTTP] 	 | TIME = 0.134193
+2016-04-28 10:26:29 Info: [HTTP] 	 | SIZE = 1479
+2016-04-28 10:26:29 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-28 10:26:29 Info: [HTTP] 	 | STATUS = 200
+2016-04-28 10:26:29 Info: [HTTP] 	 | TIME = 0.12258
+2016-04-28 10:26:29 Info: [HTTP] 	 | SIZE = 1479
+2016-04-28 10:26:29 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-28 10:26:29 Info: [HTTP] 	 | STATUS = 200
+2016-04-28 10:26:29 Info: [HTTP] 	 | TIME = 0.144573
+2016-04-28 10:26:29 Info: [HTTP] 	 | SIZE = 1479
+2016-04-28 10:26:29 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-28 10:26:29 Info: [HTTP] 	 | STATUS = 200
+2016-04-28 10:26:29 Info: [HTTP] 	 | TIME = 0.149169
+2016-04-28 10:26:29 Info: [HTTP] 	 | SIZE = 1479
+2016-04-28 10:26:29 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-28 10:26:30 Info: [HTTP] 	 | STATUS = 200
+2016-04-28 10:26:30 Info: [HTTP] 	 | TIME = 0.137827
+2016-04-28 10:26:30 Info: [HTTP] 	 | SIZE = 1479
+2016-04-28 10:26:30 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-28 10:26:30 Info: [HTTP] 	 | STATUS = 200
+2016-04-28 10:26:30 Info: [HTTP] 	 | TIME = 0.173886
+2016-04-28 10:26:30 Info: [HTTP] 	 | SIZE = 1479
+2016-04-28 10:26:30 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-28 10:26:30 Info: [HTTP] 	 | STATUS = 200
+2016-04-28 10:26:30 Info: [HTTP] 	 | TIME = 0.144643
+2016-04-28 10:26:30 Info: [HTTP] 	 | SIZE = 1479
+2016-04-28 10:26:30 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-28 10:26:30 Info: [HTTP] 	 | STATUS = 200
+2016-04-28 10:26:30 Info: [HTTP] 	 | TIME = 0.134477
+2016-04-28 10:26:30 Info: [HTTP] 	 | SIZE = 1479
+2016-04-28 10:26:30 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-28 10:26:30 Info: [HTTP] 	 | STATUS = 200
+2016-04-28 10:26:30 Info: [HTTP] 	 | TIME = 0.142325
+2016-04-28 10:26:30 Info: [HTTP] 	 | SIZE = 1479
+2016-04-28 10:26:30 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-28 10:26:30 Info: [HTTP] 	 | STATUS = 200
+2016-04-28 10:26:30 Info: [HTTP] 	 | TIME = 0.112642
+2016-04-28 10:26:30 Info: [HTTP] 	 | SIZE = 1479
+2016-04-28 10:26:30 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-28 10:26:30 Info: [HTTP] 	 | STATUS = 200
+2016-04-28 10:26:30 Info: [HTTP] 	 | TIME = 0.129074
+2016-04-28 10:26:30 Info: [HTTP] 	 | SIZE = 1479
+2016-04-28 10:26:30 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-28 10:26:31 Info: [HTTP] 	 | STATUS = 200
+2016-04-28 10:26:31 Info: [HTTP] 	 | TIME = 0.140964
+2016-04-28 10:26:31 Info: [HTTP] 	 | SIZE = 1479
+2016-04-28 10:26:31 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-28 10:26:31 Info: [HTTP] 	 | STATUS = 200
+2016-04-28 10:26:31 Info: [HTTP] 	 | TIME = 0.236559
+2016-04-28 10:26:31 Info: [HTTP] 	 | SIZE = 1479
+2016-04-28 10:26:31 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-28 10:26:31 Info: [HTTP] 	 | STATUS = 200
+2016-04-28 10:26:31 Info: [HTTP] 	 | TIME = 0.131672
+2016-04-28 10:26:31 Info: [HTTP] 	 | SIZE = 1479
+2016-04-28 10:26:31 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-28 10:26:31 Info: [HTTP] 	 | STATUS = 200
+2016-04-28 10:26:31 Info: [HTTP] 	 | TIME = 0.143743
+2016-04-28 10:26:31 Info: [HTTP] 	 | SIZE = 1479
+2016-04-28 10:26:31 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-28 10:26:31 Info: [HTTP] 	 | STATUS = 200
+2016-04-28 10:26:31 Info: [HTTP] 	 | TIME = 0.129695
+2016-04-28 10:26:31 Info: [HTTP] 	 | SIZE = 1479
+2016-04-28 10:26:31 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-28 10:26:31 Info: [HTTP] 	 | STATUS = 200
+2016-04-28 10:26:31 Info: [HTTP] 	 | TIME = 0.121762
+2016-04-28 10:26:31 Info: [HTTP] 	 | SIZE = 1479
+2016-04-28 10:26:31 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-28 10:26:32 Info: [HTTP] 	 | STATUS = 200
+2016-04-28 10:26:32 Info: [HTTP] 	 | TIME = 0.117184
+2016-04-28 10:26:32 Info: [HTTP] 	 | SIZE = 1479
+2016-04-28 10:26:32 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-28 10:26:32 Info: [HTTP] 	 | STATUS = 200
+2016-04-28 10:26:32 Info: [HTTP] 	 | TIME = 0.120181
+2016-04-28 10:26:32 Info: [HTTP] 	 | SIZE = 1479
+2016-04-28 10:26:32 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-28 10:26:32 Info: [HTTP] 	 | STATUS = 200
+2016-04-28 10:26:32 Info: [HTTP] 	 | TIME = 0.11101
+2016-04-28 10:26:32 Info: [HTTP] 	 | SIZE = 1479
+2016-04-28 10:26:32 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-28 10:26:32 Info: [HTTP] 	 | STATUS = 200
+2016-04-28 10:26:32 Info: [HTTP] 	 | TIME = 0.164864
+2016-04-28 10:26:32 Info: [HTTP] 	 | SIZE = 1479
+2016-04-28 10:26:32 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-28 10:26:32 Info: [HTTP] 	 | STATUS = 200
+2016-04-28 10:26:32 Info: [HTTP] 	 | TIME = 0.154795
+2016-04-28 10:26:32 Info: [HTTP] 	 | SIZE = 1479
+2016-04-28 10:26:32 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-28 10:26:32 Info: [HTTP] 	 | STATUS = 200
+2016-04-28 10:26:32 Info: [HTTP] 	 | TIME = 0.163225
+2016-04-28 10:26:32 Info: [HTTP] 	 | SIZE = 1479
+2016-04-28 10:26:32 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-28 10:26:32 Info: [HTTP] 	 | STATUS = 200
+2016-04-28 10:26:32 Info: [HTTP] 	 | TIME = 0.142117
+2016-04-28 10:26:32 Info: [HTTP] 	 | SIZE = 1479
+2016-04-28 10:26:32 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-28 10:26:33 Info: [HTTP] 	 | STATUS = 200
+2016-04-28 10:26:33 Info: [HTTP] 	 | TIME = 0.132455
+2016-04-28 10:26:33 Info: [HTTP] 	 | SIZE = 1479
+2016-04-28 10:26:33 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-28 10:26:33 Info: [HTTP] 	 | STATUS = 200
+2016-04-28 10:26:33 Info: [HTTP] 	 | TIME = 0.143068
+2016-04-28 10:26:33 Info: [HTTP] 	 | SIZE = 1479
+2016-04-28 10:26:33 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-28 10:26:33 Info: [HTTP] 	 | STATUS = 200
+2016-04-28 10:26:33 Info: [HTTP] 	 | TIME = 0.134448
+2016-04-28 10:26:33 Info: [HTTP] 	 | SIZE = 1479
+2016-04-28 10:26:33 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-28 10:26:33 Info: [HTTP] 	 | STATUS = 200
+2016-04-28 10:26:33 Info: [HTTP] 	 | TIME = 0.135437
+2016-04-28 10:26:33 Info: [HTTP] 	 | SIZE = 1479
+2016-04-28 10:26:33 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-28 10:26:33 Info: [HTTP] 	 | STATUS = 200
+2016-04-28 10:26:33 Info: [HTTP] 	 | TIME = 0.135553
+2016-04-28 10:26:33 Info: [HTTP] 	 | SIZE = 1479
+2016-04-28 10:26:33 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-28 10:26:33 Info: [HTTP] 	 | STATUS = 200
+2016-04-28 10:26:33 Info: [HTTP] 	 | TIME = 0.132775
+2016-04-28 10:26:33 Info: [HTTP] 	 | SIZE = 1479
+2016-04-28 10:26:33 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-28 10:26:33 Info: [HTTP] 	 | STATUS = 200
+2016-04-28 10:26:33 Info: [HTTP] 	 | TIME = 0.141078
+2016-04-28 10:26:33 Info: [HTTP] 	 | SIZE = 1479
+2016-04-28 10:26:33 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-28 10:26:34 Info: [HTTP] 	 | STATUS = 200
+2016-04-28 10:26:34 Info: [HTTP] 	 | TIME = 0.145898
+2016-04-28 10:26:34 Info: [HTTP] 	 | SIZE = 1479
+2016-04-28 10:26:34 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-28 10:26:34 Info: [HTTP] 	 | STATUS = 200
+2016-04-28 10:26:34 Info: [HTTP] 	 | TIME = 0.124972
+2016-04-28 10:26:34 Info: [HTTP] 	 | SIZE = 1479
+2016-04-28 10:26:34 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-28 10:26:34 Info: [HTTP] 	 | STATUS = 200
+2016-04-28 10:26:34 Info: [HTTP] 	 | TIME = 0.1772
+2016-04-28 10:26:34 Info: [HTTP] 	 | SIZE = 1479
+2016-04-28 10:26:34 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-28 10:26:34 Info: [HTTP] 	 | STATUS = 200
+2016-04-28 10:26:34 Info: [HTTP] 	 | TIME = 0.144364
+2016-04-28 10:26:34 Info: [HTTP] 	 | SIZE = 1479
+2016-04-28 10:26:34 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-28 10:26:34 Info: [HTTP] 	 | STATUS = 200
+2016-04-28 10:26:34 Info: [HTTP] 	 | TIME = 0.127171
+2016-04-28 10:26:34 Info: [HTTP] 	 | SIZE = 1479
+2016-04-28 10:26:34 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-28 10:26:34 Info: [HTTP] 	 | STATUS = 200
+2016-04-28 10:26:34 Info: [HTTP] 	 | TIME = 0.113003
+2016-04-28 10:26:34 Info: [HTTP] 	 | SIZE = 1479
+2016-04-28 10:26:34 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-28 10:26:35 Info: [HTTP] 	 | STATUS = 200
+2016-04-28 10:26:35 Info: [HTTP] 	 | TIME = 0.135498
+2016-04-28 10:26:35 Info: [HTTP] 	 | SIZE = 1479
+2016-04-28 10:26:35 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-28 10:26:35 Info: [HTTP] 	 | STATUS = 200
+2016-04-28 10:26:35 Info: [HTTP] 	 | TIME = 0.116114
+2016-04-28 10:26:35 Info: [HTTP] 	 | SIZE = 1479
+2016-04-28 10:26:35 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-28 10:26:35 Info: [HTTP] 	 | STATUS = 200
+2016-04-28 10:26:35 Info: [HTTP] 	 | TIME = 0.133917
+2016-04-28 10:26:35 Info: [HTTP] 	 | SIZE = 1479
+2016-04-28 10:26:35 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-28 10:26:35 Info: [HTTP] 	 | STATUS = 200
+2016-04-28 10:26:35 Info: [HTTP] 	 | TIME = 0.124008
+2016-04-28 10:26:35 Info: [HTTP] 	 | SIZE = 1479
+2016-04-28 10:26:35 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-28 10:26:35 Info: [HTTP] 	 | STATUS = 200
+2016-04-28 10:26:35 Info: [HTTP] 	 | TIME = 0.13459
+2016-04-28 10:26:35 Info: [HTTP] 	 | SIZE = 1479
+2016-04-28 10:26:35 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-28 10:26:35 Info: [HTTP] 	 | STATUS = 200
+2016-04-28 10:26:35 Info: [HTTP] 	 | TIME = 0.160635
+2016-04-28 10:26:35 Info: [HTTP] 	 | SIZE = 1479
+2016-04-28 10:26:35 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-28 10:26:35 Info: [HTTP] 	 | STATUS = 200
+2016-04-28 10:26:35 Info: [HTTP] 	 | TIME = 0.126793
+2016-04-28 10:26:35 Info: [HTTP] 	 | SIZE = 1479
+2016-04-28 10:26:35 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-28 10:26:36 Info: [HTTP] 	 | STATUS = 200
+2016-04-28 10:26:36 Info: [HTTP] 	 | TIME = 0.121738
+2016-04-28 10:26:36 Info: [HTTP] 	 | SIZE = 1479
+2016-04-28 10:26:36 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-28 10:26:36 Info: [HTTP] 	 | STATUS = 200
+2016-04-28 10:26:36 Info: [HTTP] 	 | TIME = 0.230229
+2016-04-28 10:26:36 Info: [HTTP] 	 | SIZE = 1479
+2016-04-28 10:26:36 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-28 10:26:36 Info: [HTTP] 	 | STATUS = 200
+2016-04-28 10:26:36 Info: [HTTP] 	 | TIME = 0.140042
+2016-04-28 10:26:36 Info: [HTTP] 	 | SIZE = 1479
+2016-04-28 10:26:36 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-28 10:26:36 Info: [HTTP] 	 | STATUS = 200
+2016-04-28 10:26:36 Info: [HTTP] 	 | TIME = 0.10597
+2016-04-28 10:26:36 Info: [HTTP] 	 | SIZE = 1479
+2016-04-28 10:26:36 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-28 10:26:36 Info: [HTTP] 	 | STATUS = 200
+2016-04-28 10:26:36 Info: [HTTP] 	 | TIME = 0.109273
+2016-04-28 10:26:36 Info: [HTTP] 	 | SIZE = 1479
+2016-04-28 10:26:36 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-28 10:26:36 Info: [HTTP] 	 | STATUS = 200
+2016-04-28 10:26:36 Info: [HTTP] 	 | TIME = 0.10647
+2016-04-28 10:26:36 Info: [HTTP] 	 | SIZE = 1479
+2016-04-28 10:26:36 Info: [HTTP] GET:http://fonts.googleapis.com:80/robots.txt
+2016-04-28 10:26:37 Info: [HTTP] 	 | STATUS = 200
+2016-04-28 10:26:37 Info: [HTTP] 	 | TIME = 0.190699
+2016-04-28 10:26:37 Info: [HTTP] 	 | SIZE = 25
+2016-04-28 10:26:37 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-28 10:26:37 Info: [HTTP] 	 | STATUS = 200
+2016-04-28 10:26:37 Info: [HTTP] 	 | TIME = 0.141748
+2016-04-28 10:26:37 Info: [HTTP] 	 | SIZE = 1479
+2016-04-28 10:26:37 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-28 10:26:37 Info: [HTTP] 	 | STATUS = 200
+2016-04-28 10:26:37 Info: [HTTP] 	 | TIME = 0.117798
+2016-04-28 10:26:37 Info: [HTTP] 	 | SIZE = 1479
+2016-04-28 10:26:37 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-28 10:26:37 Info: [HTTP] 	 | STATUS = 200
+2016-04-28 10:26:37 Info: [HTTP] 	 | TIME = 0.135705
+2016-04-28 10:26:37 Info: [HTTP] 	 | SIZE = 1479
+2016-04-28 10:26:37 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-28 10:26:37 Info: [HTTP] 	 | STATUS = 200
+2016-04-28 10:26:37 Info: [HTTP] 	 | TIME = 0.134907
+2016-04-28 10:26:37 Info: [HTTP] 	 | SIZE = 1479
+2016-04-28 10:26:37 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-28 10:26:37 Info: [HTTP] 	 | STATUS = 200
+2016-04-28 10:26:37 Info: [HTTP] 	 | TIME = 0.104905
+2016-04-28 10:26:37 Info: [HTTP] 	 | SIZE = 1479
+2016-04-28 10:26:37 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-28 10:26:37 Info: [HTTP] 	 | STATUS = 200
+2016-04-28 10:26:37 Info: [HTTP] 	 | TIME = 0.120129
+2016-04-28 10:26:37 Info: [HTTP] 	 | SIZE = 1479
+2016-04-28 10:26:37 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-28 10:26:37 Info: [HTTP] 	 | STATUS = 200
+2016-04-28 10:26:37 Info: [HTTP] 	 | TIME = 0.128322
+2016-04-28 10:26:37 Info: [HTTP] 	 | SIZE = 1479
+2016-04-28 10:26:37 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-28 10:26:38 Info: [HTTP] 	 | STATUS = 200
+2016-04-28 10:26:38 Info: [HTTP] 	 | TIME = 0.222206
+2016-04-28 10:26:38 Info: [HTTP] 	 | SIZE = 1479
+2016-04-28 10:26:38 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-28 10:26:38 Info: [HTTP] 	 | STATUS = 200
+2016-04-28 10:26:38 Info: [HTTP] 	 | TIME = 0.12208
+2016-04-28 10:26:38 Info: [HTTP] 	 | SIZE = 1479
+2016-04-28 10:26:38 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-28 10:26:38 Info: [HTTP] 	 | STATUS = 200
+2016-04-28 10:26:38 Info: [HTTP] 	 | TIME = 0.124869
+2016-04-28 10:26:38 Info: [HTTP] 	 | SIZE = 1479
+2016-04-28 10:26:38 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-28 10:26:38 Info: [HTTP] 	 | STATUS = 200
+2016-04-28 10:26:38 Info: [HTTP] 	 | TIME = 0.121067
+2016-04-28 10:26:38 Info: [HTTP] 	 | SIZE = 1479
+2016-04-28 10:26:38 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-28 10:26:38 Info: [HTTP] 	 | STATUS = 200
+2016-04-28 10:26:38 Info: [HTTP] 	 | TIME = 0.106113
+2016-04-28 10:26:38 Info: [HTTP] 	 | SIZE = 1479
+2016-04-28 10:26:38 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-28 10:26:38 Info: [HTTP] 	 | STATUS = 200
+2016-04-28 10:26:38 Info: [HTTP] 	 | TIME = 0.105615
+2016-04-28 10:26:38 Info: [HTTP] 	 | SIZE = 1479
+2016-04-28 10:26:38 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-28 10:26:38 Info: [HTTP] 	 | STATUS = 200
+2016-04-28 10:26:38 Info: [HTTP] 	 | TIME = 0.104187
+2016-04-28 10:26:38 Info: [HTTP] 	 | SIZE = 1479
+2016-04-28 10:26:39 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-28 10:26:39 Info: [HTTP] 	 | STATUS = 200
+2016-04-28 10:26:39 Info: [HTTP] 	 | TIME = 0.140019
+2016-04-28 10:26:39 Info: [HTTP] 	 | SIZE = 1479
+2016-04-28 10:26:39 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-28 10:26:39 Info: [HTTP] 	 | STATUS = 200
+2016-04-28 10:26:39 Info: [HTTP] 	 | TIME = 0.152662
+2016-04-28 10:26:39 Info: [HTTP] 	 | SIZE = 1479
+2016-04-28 10:26:39 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-28 10:26:39 Info: [HTTP] 	 | STATUS = 200
+2016-04-28 10:26:39 Info: [HTTP] 	 | TIME = 0.114171
+2016-04-28 10:26:39 Info: [HTTP] 	 | SIZE = 1479
+2016-04-28 10:26:39 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-28 10:26:39 Info: [HTTP] 	 | STATUS = 200
+2016-04-28 10:26:39 Info: [HTTP] 	 | TIME = 0.113308
+2016-04-28 10:26:39 Info: [HTTP] 	 | SIZE = 1479
+2016-04-28 10:26:39 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-28 10:26:39 Info: [HTTP] 	 | STATUS = 200
+2016-04-28 10:26:39 Info: [HTTP] 	 | TIME = 0.190539
+2016-04-28 10:26:39 Info: [HTTP] 	 | SIZE = 1479
+2016-04-28 10:26:39 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-28 10:26:39 Info: [HTTP] 	 | STATUS = 200
+2016-04-28 10:26:39 Info: [HTTP] 	 | TIME = 0.0966
+2016-04-28 10:26:39 Info: [HTTP] 	 | SIZE = 1479
+2016-04-28 10:26:39 Info: [HTTP] GET:https://www.pol.una.py:443/robots.txt
+2016-04-28 10:26:40 Info: [HTTP] 	 | STATUS = 0
+2016-04-28 10:26:40 Info: [HTTP] 	 | TIME = 0.060409
+2016-04-28 10:26:40 Info: [HTTP] 	 | SIZE = 0
+2016-04-28 10:26:40 Info: [HTTP] 	 | ERROR = 7
+2016-04-28 10:26:40 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-28 10:26:40 Info: [HTTP] 	 | STATUS = 200
+2016-04-28 10:26:40 Info: [HTTP] 	 | TIME = 0.104231
+2016-04-28 10:26:40 Info: [HTTP] 	 | SIZE = 1479
+2016-04-28 10:26:40 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-28 10:26:40 Info: [HTTP] 	 | STATUS = 200
+2016-04-28 10:26:40 Info: [HTTP] 	 | TIME = 0.110707
+2016-04-28 10:26:40 Info: [HTTP] 	 | SIZE = 1479
+2016-04-28 10:26:40 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-28 10:26:40 Info: [HTTP] 	 | STATUS = 200
+2016-04-28 10:26:40 Info: [HTTP] 	 | TIME = 0.221594
+2016-04-28 10:26:40 Info: [HTTP] 	 | SIZE = 1479
+2016-04-28 10:26:40 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-28 10:26:40 Info: [HTTP] 	 | STATUS = 200
+2016-04-28 10:26:40 Info: [HTTP] 	 | TIME = 0.109103
+2016-04-28 10:26:40 Info: [HTTP] 	 | SIZE = 1479
+2016-04-28 10:26:40 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-28 10:26:40 Info: [HTTP] 	 | STATUS = 200
+2016-04-28 10:26:40 Info: [HTTP] 	 | TIME = 0.118371
+2016-04-28 10:26:40 Info: [HTTP] 	 | SIZE = 1479
+2016-04-28 10:26:40 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-28 10:26:40 Info: [HTTP] 	 | STATUS = 200
+2016-04-28 10:26:40 Info: [HTTP] 	 | TIME = 0.099531
+2016-04-28 10:26:40 Info: [HTTP] 	 | SIZE = 1479
+2016-04-28 10:26:40 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-28 10:26:41 Info: [HTTP] 	 | STATUS = 200
+2016-04-28 10:26:41 Info: [HTTP] 	 | TIME = 0.114037
+2016-04-28 10:26:41 Info: [HTTP] 	 | SIZE = 1479
+2016-04-28 10:26:41 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-28 10:26:41 Info: [HTTP] 	 | STATUS = 200
+2016-04-28 10:26:41 Info: [HTTP] 	 | TIME = 0.128437
+2016-04-28 10:26:41 Info: [HTTP] 	 | SIZE = 1479
+2016-04-28 10:26:41 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-28 10:26:41 Info: [HTTP] 	 | STATUS = 200
+2016-04-28 10:26:41 Info: [HTTP] 	 | TIME = 0.398867
+2016-04-28 10:26:41 Info: [HTTP] 	 | SIZE = 1479
+2016-04-28 10:26:41 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-28 10:26:41 Info: [HTTP] 	 | STATUS = 200
+2016-04-28 10:26:41 Info: [HTTP] 	 | TIME = 0.123179
+2016-04-28 10:26:41 Info: [HTTP] 	 | SIZE = 1479
+2016-04-28 10:26:41 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-28 10:26:42 Info: [HTTP] 	 | STATUS = 200
+2016-04-28 10:26:42 Info: [HTTP] 	 | TIME = 1.239582
+2016-04-28 10:26:42 Info: [HTTP] 	 | SIZE = 1479
+2016-04-28 10:26:43 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-28 10:26:43 Info: [HTTP] 	 | STATUS = 200
+2016-04-28 10:26:43 Info: [HTTP] 	 | TIME = 0.140414
+2016-04-28 10:26:43 Info: [HTTP] 	 | SIZE = 1479
+2016-04-28 10:26:43 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-28 10:26:43 Info: [HTTP] 	 | STATUS = 200
+2016-04-28 10:26:43 Info: [HTTP] 	 | TIME = 0.323837
+2016-04-28 10:26:43 Info: [HTTP] 	 | SIZE = 1479
+2016-04-28 10:26:43 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-28 10:26:43 Info: [HTTP] 	 | STATUS = 200
+2016-04-28 10:26:43 Info: [HTTP] 	 | TIME = 0.152666
+2016-04-28 10:26:43 Info: [HTTP] 	 | SIZE = 1479
+2016-04-28 10:26:43 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-28 10:26:43 Info: [HTTP] 	 | STATUS = 200
+2016-04-28 10:26:43 Info: [HTTP] 	 | TIME = 0.109544
+2016-04-28 10:26:43 Info: [HTTP] 	 | SIZE = 1479
+2016-04-28 10:26:43 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-28 10:26:43 Info: [HTTP] 	 | STATUS = 200
+2016-04-28 10:26:43 Info: [HTTP] 	 | TIME = 0.10824
+2016-04-28 10:26:43 Info: [HTTP] 	 | SIZE = 1479
+2016-04-28 10:26:43 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-28 10:26:44 Info: [HTTP] 	 | STATUS = 200
+2016-04-28 10:26:44 Info: [HTTP] 	 | TIME = 0.163322
+2016-04-28 10:26:44 Info: [HTTP] 	 | SIZE = 1479
+2016-04-28 10:26:44 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-28 10:26:44 Info: [HTTP] 	 | STATUS = 200
+2016-04-28 10:26:44 Info: [HTTP] 	 | TIME = 0.850578
+2016-04-28 10:26:44 Info: [HTTP] 	 | SIZE = 1479
+2016-04-28 10:26:44 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-28 10:26:46 Info: [HTTP] 	 | STATUS = 200
+2016-04-28 10:26:46 Info: [HTTP] 	 | TIME = 1.134252
+2016-04-28 10:26:46 Info: [HTTP] 	 | SIZE = 1479
+2016-04-28 10:26:46 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-28 10:26:46 Info: [HTTP] 	 | STATUS = 200
+2016-04-28 10:26:46 Info: [HTTP] 	 | TIME = 0.136221
+2016-04-28 10:26:46 Info: [HTTP] 	 | SIZE = 1479
+2016-04-28 10:26:46 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-28 10:26:46 Info: [HTTP] 	 | STATUS = 200
+2016-04-28 10:26:46 Info: [HTTP] 	 | TIME = 0.119182
+2016-04-28 10:26:46 Info: [HTTP] 	 | SIZE = 1479
+2016-04-28 10:26:46 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-28 10:26:46 Info: [HTTP] 	 | STATUS = 200
+2016-04-28 10:26:46 Info: [HTTP] 	 | TIME = 0.173306
+2016-04-28 10:26:46 Info: [HTTP] 	 | SIZE = 1479
+2016-04-28 10:26:46 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-28 10:26:46 Info: [HTTP] 	 | STATUS = 200
+2016-04-28 10:26:46 Info: [HTTP] 	 | TIME = 0.124401
+2016-04-28 10:26:46 Info: [HTTP] 	 | SIZE = 1479
+2016-04-28 10:26:46 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-28 10:26:46 Info: [HTTP] 	 | STATUS = 200
+2016-04-28 10:26:46 Info: [HTTP] 	 | TIME = 0.123613
+2016-04-28 10:26:46 Info: [HTTP] 	 | SIZE = 1479
+2016-04-28 10:26:46 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-28 10:26:47 Info: [HTTP] 	 | STATUS = 200
+2016-04-28 10:26:47 Info: [HTTP] 	 | TIME = 0.159669
+2016-04-28 10:26:47 Info: [HTTP] 	 | SIZE = 1479
+2016-04-28 10:26:47 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-28 10:26:47 Info: [HTTP] 	 | STATUS = 200
+2016-04-28 10:26:47 Info: [HTTP] 	 | TIME = 0.130431
+2016-04-28 10:26:47 Info: [HTTP] 	 | SIZE = 1479
+2016-04-28 10:26:47 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-28 10:26:47 Info: [HTTP] 	 | STATUS = 200
+2016-04-28 10:26:47 Info: [HTTP] 	 | TIME = 0.113569
+2016-04-28 10:26:47 Info: [HTTP] 	 | SIZE = 1479
+2016-04-28 10:26:47 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-28 10:26:47 Info: [HTTP] 	 | STATUS = 200
+2016-04-28 10:26:47 Info: [HTTP] 	 | TIME = 0.114927
+2016-04-28 10:26:47 Info: [HTTP] 	 | SIZE = 1479
+2016-04-28 10:26:47 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-28 10:26:47 Info: [HTTP] 	 | STATUS = 200
+2016-04-28 10:26:47 Info: [HTTP] 	 | TIME = 0.142176
+2016-04-28 10:26:47 Info: [HTTP] 	 | SIZE = 1479
+2016-04-28 10:26:47 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-28 10:26:47 Info: [HTTP] 	 | STATUS = 200
+2016-04-28 10:26:47 Info: [HTTP] 	 | TIME = 0.102995
+2016-04-28 10:26:47 Info: [HTTP] 	 | SIZE = 1479
+2016-04-28 10:26:47 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-28 10:26:48 Info: [HTTP] 	 | STATUS = 200
+2016-04-28 10:26:48 Info: [HTTP] 	 | TIME = 0.157477
+2016-04-28 10:26:48 Info: [HTTP] 	 | SIZE = 1479
+2016-04-28 10:26:48 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-28 10:26:48 Info: [HTTP] 	 | STATUS = 200
+2016-04-28 10:26:48 Info: [HTTP] 	 | TIME = 0.128151
+2016-04-28 10:26:48 Info: [HTTP] 	 | SIZE = 1479
+2016-04-28 10:26:48 Info: [HTTP] GET:http://www02.pol.una.py:80/robots.txt
+2016-04-28 10:27:03 Info: [HTTP] 	 | STATUS = 0
+2016-04-28 10:27:03 Info: [HTTP] 	 | TIME = 14.999934
+2016-04-28 10:27:03 Info: [HTTP] 	 | SIZE = 0
+2016-04-28 10:27:03 Info: [HTTP] 	 | ERROR = 28
+2016-04-28 10:27:03 Info: [HTTP] GET:http://www02.pol.una.py:80/robots.txt
+2016-04-28 10:27:18 Info: [HTTP] 	 | STATUS = 0
+2016-04-28 10:27:18 Info: [HTTP] 	 | TIME = 15.000211
+2016-04-28 10:27:18 Info: [HTTP] 	 | SIZE = 0
+2016-04-28 10:27:18 Info: [HTTP] 	 | ERROR = 28
+2016-04-28 10:27:18 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-28 10:27:19 Info: [HTTP] 	 | STATUS = 200
+2016-04-28 10:27:19 Info: [HTTP] 	 | TIME = 0.766603
+2016-04-28 10:27:19 Info: [HTTP] 	 | SIZE = 1479
+2016-04-28 10:27:19 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-28 10:27:19 Info: [HTTP] 	 | STATUS = 200
+2016-04-28 10:27:19 Info: [HTTP] 	 | TIME = 0.144372
+2016-04-28 10:27:19 Info: [HTTP] 	 | SIZE = 1479
+2016-04-28 10:27:19 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-28 10:27:21 Info: [HTTP] 	 | STATUS = 200
+2016-04-28 10:27:21 Info: [HTTP] 	 | TIME = 2.640533
+2016-04-28 10:27:21 Info: [HTTP] 	 | SIZE = 1479
+2016-04-28 10:27:21 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-28 10:27:22 Info: [HTTP] 	 | STATUS = 200
+2016-04-28 10:27:22 Info: [HTTP] 	 | TIME = 0.123041
+2016-04-28 10:27:22 Info: [HTTP] 	 | SIZE = 1479
+2016-04-28 10:27:22 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-28 10:27:22 Info: [HTTP] 	 | STATUS = 200
+2016-04-28 10:27:22 Info: [HTTP] 	 | TIME = 0.101588
+2016-04-28 10:27:22 Info: [HTTP] 	 | SIZE = 1479
+2016-04-28 10:27:22 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-28 10:27:22 Info: [HTTP] 	 | STATUS = 200
+2016-04-28 10:27:22 Info: [HTTP] 	 | TIME = 0.177754
+2016-04-28 10:27:22 Info: [HTTP] 	 | SIZE = 1479
+2016-04-28 10:27:22 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-28 10:27:22 Info: [HTTP] 	 | STATUS = 200
+2016-04-28 10:27:22 Info: [HTTP] 	 | TIME = 0.422648
+2016-04-28 10:27:22 Info: [HTTP] 	 | SIZE = 1479
+2016-04-28 10:27:22 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-28 10:27:22 Info: [HTTP] 	 | STATUS = 200
+2016-04-28 10:27:22 Info: [HTTP] 	 | TIME = 0.136312
+2016-04-28 10:27:22 Info: [HTTP] 	 | SIZE = 1479
+2016-04-28 10:27:22 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-28 10:27:23 Info: [HTTP] 	 | STATUS = 200
+2016-04-28 10:27:23 Info: [HTTP] 	 | TIME = 0.10593
+2016-04-28 10:27:23 Info: [HTTP] 	 | SIZE = 1479
+2016-04-28 10:27:23 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-28 10:27:23 Info: [HTTP] 	 | STATUS = 200
+2016-04-28 10:27:23 Info: [HTTP] 	 | TIME = 0.121441
+2016-04-28 10:27:23 Info: [HTTP] 	 | SIZE = 1479
+2016-04-28 10:27:23 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-28 10:27:23 Info: [HTTP] 	 | STATUS = 200
+2016-04-28 10:27:23 Info: [HTTP] 	 | TIME = 0.131911
+2016-04-28 10:27:23 Info: [HTTP] 	 | SIZE = 1479
+2016-04-28 10:27:23 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-28 10:27:23 Info: [HTTP] 	 | STATUS = 200
+2016-04-28 10:27:23 Info: [HTTP] 	 | TIME = 0.139731
+2016-04-28 10:27:23 Info: [HTTP] 	 | SIZE = 1479
+2016-04-28 10:27:23 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-28 10:27:23 Info: [HTTP] 	 | STATUS = 200
+2016-04-28 10:27:23 Info: [HTTP] 	 | TIME = 0.151599
+2016-04-28 10:27:23 Info: [HTTP] 	 | SIZE = 1479
+2016-04-28 10:27:23 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-28 10:27:23 Info: [HTTP] 	 | STATUS = 200
+2016-04-28 10:27:23 Info: [HTTP] 	 | TIME = 0.102444
+2016-04-28 10:27:23 Info: [HTTP] 	 | SIZE = 1479
+2016-04-28 10:27:23 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-28 10:27:23 Info: [HTTP] 	 | STATUS = 200
+2016-04-28 10:27:23 Info: [HTTP] 	 | TIME = 0.119292
+2016-04-28 10:27:23 Info: [HTTP] 	 | SIZE = 1479
+2016-04-28 10:27:23 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-28 10:27:24 Info: [HTTP] 	 | STATUS = 200
+2016-04-28 10:27:24 Info: [HTTP] 	 | TIME = 0.106105
+2016-04-28 10:27:24 Info: [HTTP] 	 | SIZE = 1479
+2016-04-28 10:27:24 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-28 10:27:24 Info: [HTTP] 	 | STATUS = 200
+2016-04-28 10:27:24 Info: [HTTP] 	 | TIME = 0.138865
+2016-04-28 10:27:24 Info: [HTTP] 	 | SIZE = 1479
+2016-04-28 10:27:24 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-28 10:27:24 Info: [HTTP] 	 | STATUS = 200
+2016-04-28 10:27:24 Info: [HTTP] 	 | TIME = 0.349209
+2016-04-28 10:27:24 Info: [HTTP] 	 | SIZE = 1479
+2016-04-28 10:27:24 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-28 10:27:24 Info: [HTTP] 	 | STATUS = 200
+2016-04-28 10:27:24 Info: [HTTP] 	 | TIME = 0.104524
+2016-04-28 10:27:24 Info: [HTTP] 	 | SIZE = 1479
+2016-04-28 10:27:24 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-28 10:27:24 Info: [HTTP] 	 | STATUS = 200
+2016-04-28 10:27:24 Info: [HTTP] 	 | TIME = 0.10549
+2016-04-28 10:27:24 Info: [HTTP] 	 | SIZE = 1479
+2016-04-28 10:27:24 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-28 10:27:25 Info: [HTTP] 	 | STATUS = 200
+2016-04-28 10:27:25 Info: [HTTP] 	 | TIME = 0.148132
+2016-04-28 10:27:25 Info: [HTTP] 	 | SIZE = 1479
+2016-04-28 10:27:25 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-28 10:27:26 Info: [HTTP] 	 | STATUS = 200
+2016-04-28 10:27:26 Info: [HTTP] 	 | TIME = 1.139662
+2016-04-28 10:27:26 Info: [HTTP] 	 | SIZE = 1479
+2016-04-28 10:27:26 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-28 10:27:26 Info: [HTTP] 	 | STATUS = 200
+2016-04-28 10:27:26 Info: [HTTP] 	 | TIME = 0.106365
+2016-04-28 10:27:26 Info: [HTTP] 	 | SIZE = 1479
+2016-04-28 10:27:26 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-28 10:27:26 Info: [HTTP] 	 | STATUS = 200
+2016-04-28 10:27:26 Info: [HTTP] 	 | TIME = 0.117905
+2016-04-28 10:27:26 Info: [HTTP] 	 | SIZE = 1479
+2016-04-28 10:27:26 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-28 10:27:26 Info: [HTTP] 	 | STATUS = 200
+2016-04-28 10:27:26 Info: [HTTP] 	 | TIME = 0.137251
+2016-04-28 10:27:26 Info: [HTTP] 	 | SIZE = 1479
+2016-04-28 10:27:26 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-28 10:27:27 Info: [HTTP] 	 | STATUS = 200
+2016-04-28 10:27:27 Info: [HTTP] 	 | TIME = 0.379019
+2016-04-28 10:27:27 Info: [HTTP] 	 | SIZE = 1479
+2016-04-28 10:27:27 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-28 10:27:27 Info: [HTTP] 	 | STATUS = 200
+2016-04-28 10:27:27 Info: [HTTP] 	 | TIME = 0.140117
+2016-04-28 10:27:27 Info: [HTTP] 	 | SIZE = 1479
+2016-04-28 10:27:27 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-28 10:27:27 Info: [HTTP] 	 | STATUS = 200
+2016-04-28 10:27:27 Info: [HTTP] 	 | TIME = 0.378175
+2016-04-28 10:27:27 Info: [HTTP] 	 | SIZE = 1479
+2016-04-28 10:27:27 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-28 10:27:27 Info: [HTTP] 	 | STATUS = 200
+2016-04-28 10:27:27 Info: [HTTP] 	 | TIME = 0.095905
+2016-04-28 10:27:27 Info: [HTTP] 	 | SIZE = 1479
+2016-04-28 10:27:27 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-28 10:27:27 Info: [HTTP] 	 | STATUS = 200
+2016-04-28 10:27:27 Info: [HTTP] 	 | TIME = 0.110646
+2016-04-28 10:27:27 Info: [HTTP] 	 | SIZE = 1479
+2016-04-28 10:27:27 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-28 10:27:27 Info: [HTTP] 	 | STATUS = 200
+2016-04-28 10:27:27 Info: [HTTP] 	 | TIME = 0.099163
+2016-04-28 10:27:27 Info: [HTTP] 	 | SIZE = 1479
+2016-04-28 10:27:27 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-28 10:27:28 Info: [HTTP] 	 | STATUS = 200
+2016-04-28 10:27:28 Info: [HTTP] 	 | TIME = 0.401836
+2016-04-28 10:27:28 Info: [HTTP] 	 | SIZE = 1479
+2016-04-28 10:27:28 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-28 10:27:28 Info: [HTTP] 	 | STATUS = 200
+2016-04-28 10:27:28 Info: [HTTP] 	 | TIME = 0.124446
+2016-04-28 10:27:28 Info: [HTTP] 	 | SIZE = 1479
+2016-04-28 10:27:28 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-28 10:27:28 Info: [HTTP] 	 | STATUS = 200
+2016-04-28 10:27:28 Info: [HTTP] 	 | TIME = 0.126974
+2016-04-28 10:27:28 Info: [HTTP] 	 | SIZE = 1479
+2016-04-28 10:27:28 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-28 10:27:28 Info: [HTTP] 	 | STATUS = 200
+2016-04-28 10:27:28 Info: [HTTP] 	 | TIME = 0.108722
+2016-04-28 10:27:28 Info: [HTTP] 	 | SIZE = 1479
+2016-04-28 10:27:28 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-28 10:27:28 Info: [HTTP] 	 | STATUS = 200
+2016-04-28 10:27:28 Info: [HTTP] 	 | TIME = 0.109064
+2016-04-28 10:27:28 Info: [HTTP] 	 | SIZE = 1479
+2016-04-28 10:27:28 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-28 10:27:29 Info: [HTTP] 	 | STATUS = 200
+2016-04-28 10:27:29 Info: [HTTP] 	 | TIME = 0.136268
+2016-04-28 10:27:29 Info: [HTTP] 	 | SIZE = 1479
+2016-04-28 10:27:29 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-28 10:27:29 Info: [HTTP] 	 | STATUS = 200
+2016-04-28 10:27:29 Info: [HTTP] 	 | TIME = 0.107393
+2016-04-28 10:27:29 Info: [HTTP] 	 | SIZE = 1479
+2016-04-28 10:27:29 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-28 10:27:29 Info: [HTTP] 	 | STATUS = 200
+2016-04-28 10:27:29 Info: [HTTP] 	 | TIME = 0.128524
+2016-04-28 10:27:29 Info: [HTTP] 	 | SIZE = 1479
+2016-04-28 10:27:29 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-28 10:27:29 Info: [HTTP] 	 | STATUS = 200
+2016-04-28 10:27:29 Info: [HTTP] 	 | TIME = 0.154793
+2016-04-28 10:27:29 Info: [HTTP] 	 | SIZE = 1479
+2016-04-28 10:27:29 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-28 10:27:29 Info: [HTTP] 	 | STATUS = 200
+2016-04-28 10:27:29 Info: [HTTP] 	 | TIME = 0.119828
+2016-04-28 10:27:29 Info: [HTTP] 	 | SIZE = 1479
+2016-04-28 10:27:29 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-28 10:27:29 Info: [HTTP] 	 | STATUS = 200
+2016-04-28 10:27:29 Info: [HTTP] 	 | TIME = 0.10799
+2016-04-28 10:27:29 Info: [HTTP] 	 | SIZE = 1479
+2016-04-28 10:27:29 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-28 10:27:29 Info: [HTTP] 	 | STATUS = 200
+2016-04-28 10:27:29 Info: [HTTP] 	 | TIME = 0.108063
+2016-04-28 10:27:29 Info: [HTTP] 	 | SIZE = 1479
+2016-04-28 10:27:29 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-28 10:27:30 Info: [HTTP] 	 | STATUS = 200
+2016-04-28 10:27:30 Info: [HTTP] 	 | TIME = 0.126645
+2016-04-28 10:27:30 Info: [HTTP] 	 | SIZE = 1479
+2016-04-28 10:27:30 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-28 10:27:30 Info: [HTTP] 	 | STATUS = 200
+2016-04-28 10:27:30 Info: [HTTP] 	 | TIME = 0.113543
+2016-04-28 10:27:30 Info: [HTTP] 	 | SIZE = 1479
+2016-04-28 10:27:30 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-28 10:27:30 Info: [HTTP] 	 | STATUS = 200
+2016-04-28 10:27:30 Info: [HTTP] 	 | TIME = 0.123225
+2016-04-28 10:27:30 Info: [HTTP] 	 | SIZE = 1479
+2016-04-28 10:27:30 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-28 10:27:30 Info: [HTTP] 	 | STATUS = 200
+2016-04-28 10:27:30 Info: [HTTP] 	 | TIME = 0.09967
+2016-04-28 10:27:30 Info: [HTTP] 	 | SIZE = 1479
+2016-04-28 10:27:30 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-28 10:27:30 Info: [HTTP] 	 | STATUS = 200
+2016-04-28 10:27:30 Info: [HTTP] 	 | TIME = 0.129272
+2016-04-28 10:27:30 Info: [HTTP] 	 | SIZE = 1479
+2016-04-28 10:27:30 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-28 10:27:30 Info: [HTTP] 	 | STATUS = 200
+2016-04-28 10:27:30 Info: [HTTP] 	 | TIME = 0.134697
+2016-04-28 10:27:30 Info: [HTTP] 	 | SIZE = 1479
+2016-04-28 10:27:30 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-28 10:27:30 Info: [HTTP] 	 | STATUS = 200
+2016-04-28 10:27:30 Info: [HTTP] 	 | TIME = 0.111067
+2016-04-28 10:27:30 Info: [HTTP] 	 | SIZE = 1479
+2016-04-28 10:27:30 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-28 10:27:31 Info: [HTTP] 	 | STATUS = 200
+2016-04-28 10:27:31 Info: [HTTP] 	 | TIME = 0.119153
+2016-04-28 10:27:31 Info: [HTTP] 	 | SIZE = 1479
+2016-04-28 10:27:31 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-28 10:27:31 Info: [HTTP] 	 | STATUS = 200
+2016-04-28 10:27:31 Info: [HTTP] 	 | TIME = 0.120354
+2016-04-28 10:27:31 Info: [HTTP] 	 | SIZE = 1479
+2016-04-28 10:27:31 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-28 10:27:31 Info: [HTTP] 	 | STATUS = 200
+2016-04-28 10:27:31 Info: [HTTP] 	 | TIME = 0.110913
+2016-04-28 10:27:31 Info: [HTTP] 	 | SIZE = 1479
+2016-04-28 10:27:31 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-28 10:27:31 Info: [HTTP] 	 | STATUS = 200
+2016-04-28 10:27:31 Info: [HTTP] 	 | TIME = 0.13301
+2016-04-28 10:27:31 Info: [HTTP] 	 | SIZE = 1479
+2016-04-28 10:27:31 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-28 10:27:31 Info: [HTTP] 	 | STATUS = 200
+2016-04-28 10:27:31 Info: [HTTP] 	 | TIME = 0.125547
+2016-04-28 10:27:31 Info: [HTTP] 	 | SIZE = 1479
+2016-04-28 10:27:31 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-28 10:27:31 Info: [HTTP] 	 | STATUS = 200
+2016-04-28 10:27:31 Info: [HTTP] 	 | TIME = 0.13305
+2016-04-28 10:27:31 Info: [HTTP] 	 | SIZE = 1479
+2016-04-28 10:27:31 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-28 10:27:31 Info: [HTTP] 	 | STATUS = 200
+2016-04-28 10:27:31 Info: [HTTP] 	 | TIME = 0.1188
+2016-04-28 10:27:31 Info: [HTTP] 	 | SIZE = 1479
+2016-04-28 10:27:32 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-28 10:27:32 Info: [HTTP] 	 | STATUS = 200
+2016-04-28 10:27:32 Info: [HTTP] 	 | TIME = 0.134837
+2016-04-28 10:27:32 Info: [HTTP] 	 | SIZE = 1479
+2016-04-28 10:27:32 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-28 10:27:32 Info: [HTTP] 	 | STATUS = 200
+2016-04-28 10:27:32 Info: [HTTP] 	 | TIME = 0.103068
+2016-04-28 10:27:32 Info: [HTTP] 	 | SIZE = 1479
+2016-04-28 10:27:32 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-28 10:27:32 Info: [HTTP] 	 | STATUS = 200
+2016-04-28 10:27:32 Info: [HTTP] 	 | TIME = 0.104804
+2016-04-28 10:27:32 Info: [HTTP] 	 | SIZE = 1479
+2016-04-28 10:27:32 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-28 10:27:33 Info: [HTTP] 	 | STATUS = 200
+2016-04-28 10:27:33 Info: [HTTP] 	 | TIME = 1.158756
+2016-04-28 10:27:33 Info: [HTTP] 	 | SIZE = 1479
+2016-04-28 10:27:33 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-28 10:27:33 Info: [HTTP] 	 | STATUS = 200
+2016-04-28 10:27:33 Info: [HTTP] 	 | TIME = 0.103919
+2016-04-28 10:27:33 Info: [HTTP] 	 | SIZE = 1479
+2016-04-28 10:27:33 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-28 10:27:33 Info: [HTTP] 	 | STATUS = 200
+2016-04-28 10:27:33 Info: [HTTP] 	 | TIME = 0.138347
+2016-04-28 10:27:33 Info: [HTTP] 	 | SIZE = 1479
+2016-04-28 10:27:33 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-28 10:27:34 Info: [HTTP] 	 | STATUS = 200
+2016-04-28 10:27:34 Info: [HTTP] 	 | TIME = 0.119945
+2016-04-28 10:27:34 Info: [HTTP] 	 | SIZE = 1479
+2016-04-28 10:27:34 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-28 10:27:34 Info: [HTTP] 	 | STATUS = 200
+2016-04-28 10:27:34 Info: [HTTP] 	 | TIME = 0.134411
+2016-04-28 10:27:34 Info: [HTTP] 	 | SIZE = 1479
+2016-04-28 10:27:34 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-28 10:27:34 Info: [HTTP] 	 | STATUS = 200
+2016-04-28 10:27:34 Info: [HTTP] 	 | TIME = 0.102286
+2016-04-28 10:27:34 Info: [HTTP] 	 | SIZE = 1479
+2016-04-28 10:27:34 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-28 10:27:34 Info: [HTTP] 	 | STATUS = 200
+2016-04-28 10:27:34 Info: [HTTP] 	 | TIME = 0.135058
+2016-04-28 10:27:34 Info: [HTTP] 	 | SIZE = 1479
+2016-04-28 10:27:34 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-28 10:27:34 Info: [HTTP] 	 | STATUS = 200
+2016-04-28 10:27:34 Info: [HTTP] 	 | TIME = 0.15833
+2016-04-28 10:27:34 Info: [HTTP] 	 | SIZE = 1479
+2016-04-28 10:27:34 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-28 10:27:34 Info: [HTTP] 	 | STATUS = 200
+2016-04-28 10:27:34 Info: [HTTP] 	 | TIME = 0.132138
+2016-04-28 10:27:34 Info: [HTTP] 	 | SIZE = 1479
+2016-04-28 10:27:34 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-28 10:27:35 Info: [HTTP] 	 | STATUS = 200
+2016-04-28 10:27:35 Info: [HTTP] 	 | TIME = 0.212982
+2016-04-28 10:27:35 Info: [HTTP] 	 | SIZE = 1479
+2016-04-28 10:27:35 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-28 10:27:35 Info: [HTTP] 	 | STATUS = 200
+2016-04-28 10:27:35 Info: [HTTP] 	 | TIME = 0.130933
+2016-04-28 10:27:35 Info: [HTTP] 	 | SIZE = 1479
+2016-04-28 10:27:35 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-28 10:27:35 Info: [HTTP] 	 | STATUS = 200
+2016-04-28 10:27:35 Info: [HTTP] 	 | TIME = 0.137758
+2016-04-28 10:27:35 Info: [HTTP] 	 | SIZE = 1479
+2016-04-28 10:27:35 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-28 10:27:35 Info: [HTTP] 	 | STATUS = 200
+2016-04-28 10:27:35 Info: [HTTP] 	 | TIME = 0.139955
+2016-04-28 10:27:35 Info: [HTTP] 	 | SIZE = 1479
+2016-04-28 10:27:35 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-28 10:27:35 Info: [HTTP] 	 | STATUS = 200
+2016-04-28 10:27:35 Info: [HTTP] 	 | TIME = 0.124913
+2016-04-28 10:27:35 Info: [HTTP] 	 | SIZE = 1479
+2016-04-28 10:27:35 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-28 10:27:35 Info: [HTTP] 	 | STATUS = 200
+2016-04-28 10:27:35 Info: [HTTP] 	 | TIME = 0.116667
+2016-04-28 10:27:35 Info: [HTTP] 	 | SIZE = 1479
+2016-04-28 10:27:35 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-28 10:27:36 Info: [HTTP] 	 | STATUS = 200
+2016-04-28 10:27:36 Info: [HTTP] 	 | TIME = 0.142553
+2016-04-28 10:27:36 Info: [HTTP] 	 | SIZE = 1479
+2016-04-28 10:27:36 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-28 10:27:36 Info: [HTTP] 	 | STATUS = 200
+2016-04-28 10:27:36 Info: [HTTP] 	 | TIME = 0.159294
+2016-04-28 10:27:36 Info: [HTTP] 	 | SIZE = 1479
+2016-04-28 10:27:36 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-28 10:27:36 Info: [HTTP] 	 | STATUS = 200
+2016-04-28 10:27:36 Info: [HTTP] 	 | TIME = 0.132336
+2016-04-28 10:27:36 Info: [HTTP] 	 | SIZE = 1479
+2016-04-28 10:27:36 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-28 10:27:36 Info: [HTTP] 	 | STATUS = 200
+2016-04-28 10:27:36 Info: [HTTP] 	 | TIME = 0.14018
+2016-04-28 10:27:36 Info: [HTTP] 	 | SIZE = 1479
+2016-04-28 10:27:36 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-28 10:27:36 Info: [HTTP] 	 | STATUS = 200
+2016-04-28 10:27:36 Info: [HTTP] 	 | TIME = 0.131933
+2016-04-28 10:27:36 Info: [HTTP] 	 | SIZE = 1479
+2016-04-28 10:27:36 Info: [HTTP] GET:https://fonts.googleapis.com:443/robots.txt
+2016-04-28 10:27:37 Info: [HTTP] 	 | STATUS = 200
+2016-04-28 10:27:37 Info: [HTTP] 	 | TIME = 0.411903
+2016-04-28 10:27:37 Info: [HTTP] 	 | SIZE = 25
+2016-04-28 10:27:37 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-28 10:27:37 Info: [HTTP] 	 | STATUS = 200
+2016-04-28 10:27:37 Info: [HTTP] 	 | TIME = 0.112169
+2016-04-28 10:27:37 Info: [HTTP] 	 | SIZE = 1479
+2016-04-28 10:27:37 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-28 10:27:37 Info: [HTTP] 	 | STATUS = 200
+2016-04-28 10:27:37 Info: [HTTP] 	 | TIME = 0.117925
+2016-04-28 10:27:37 Info: [HTTP] 	 | SIZE = 1479
+2016-04-28 10:27:37 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-28 10:27:37 Info: [HTTP] 	 | STATUS = 200
+2016-04-28 10:27:37 Info: [HTTP] 	 | TIME = 0.179216
+2016-04-28 10:27:37 Info: [HTTP] 	 | SIZE = 1479
+2016-04-28 10:27:37 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-28 10:27:37 Info: [HTTP] 	 | STATUS = 200
+2016-04-28 10:27:37 Info: [HTTP] 	 | TIME = 0.116615
+2016-04-28 10:27:37 Info: [HTTP] 	 | SIZE = 1479
+2016-04-28 10:27:37 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-28 10:27:37 Info: [HTTP] 	 | STATUS = 200
+2016-04-28 10:27:37 Info: [HTTP] 	 | TIME = 0.116249
+2016-04-28 10:27:37 Info: [HTTP] 	 | SIZE = 1479
+2016-04-28 10:27:37 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-28 10:27:38 Info: [HTTP] 	 | STATUS = 200
+2016-04-28 10:27:38 Info: [HTTP] 	 | TIME = 0.131665
+2016-04-28 10:27:38 Info: [HTTP] 	 | SIZE = 1479
+2016-04-28 10:27:38 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-28 10:27:38 Info: [HTTP] 	 | STATUS = 200
+2016-04-28 10:27:38 Info: [HTTP] 	 | TIME = 0.384995
+2016-04-28 10:27:38 Info: [HTTP] 	 | SIZE = 1479
+2016-04-28 10:27:38 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-28 10:27:38 Info: [HTTP] 	 | STATUS = 200
+2016-04-28 10:27:38 Info: [HTTP] 	 | TIME = 0.425043
+2016-04-28 10:27:38 Info: [HTTP] 	 | SIZE = 1479
+2016-04-28 10:27:38 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-28 10:27:39 Info: [HTTP] 	 | STATUS = 200
+2016-04-28 10:27:39 Info: [HTTP] 	 | TIME = 0.136314
+2016-04-28 10:27:39 Info: [HTTP] 	 | SIZE = 1479
+2016-04-28 10:27:39 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-28 10:27:39 Info: [HTTP] 	 | STATUS = 200
+2016-04-28 10:27:39 Info: [HTTP] 	 | TIME = 0.152123
+2016-04-28 10:27:39 Info: [HTTP] 	 | SIZE = 1479
+2016-04-28 10:27:39 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-28 10:27:39 Info: [HTTP] 	 | STATUS = 200
+2016-04-28 10:27:39 Info: [HTTP] 	 | TIME = 0.10631
+2016-04-28 10:27:39 Info: [HTTP] 	 | SIZE = 1479
+2016-04-28 10:27:39 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-28 10:27:39 Info: [HTTP] 	 | STATUS = 200
+2016-04-28 10:27:39 Info: [HTTP] 	 | TIME = 0.157042
+2016-04-28 10:27:39 Info: [HTTP] 	 | SIZE = 1479
+2016-04-28 10:27:39 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-28 10:27:39 Info: [HTTP] 	 | STATUS = 200
+2016-04-28 10:27:39 Info: [HTTP] 	 | TIME = 0.12707
+2016-04-28 10:27:39 Info: [HTTP] 	 | SIZE = 1479
+2016-04-28 10:27:39 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-28 10:27:39 Info: [HTTP] 	 | STATUS = 200
+2016-04-28 10:27:39 Info: [HTTP] 	 | TIME = 0.129462
+2016-04-28 10:27:39 Info: [HTTP] 	 | SIZE = 1479
+2016-04-28 10:27:39 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-28 10:27:40 Info: [HTTP] 	 | STATUS = 200
+2016-04-28 10:27:40 Info: [HTTP] 	 | TIME = 0.117987
+2016-04-28 10:27:40 Info: [HTTP] 	 | SIZE = 1479
+2016-04-28 10:27:40 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-28 10:27:40 Info: [HTTP] 	 | STATUS = 200
+2016-04-28 10:27:40 Info: [HTTP] 	 | TIME = 0.133487
+2016-04-28 10:27:40 Info: [HTTP] 	 | SIZE = 1479
+2016-04-28 10:27:40 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-28 10:27:40 Info: [HTTP] 	 | STATUS = 200
+2016-04-28 10:27:40 Info: [HTTP] 	 | TIME = 0.146172
+2016-04-28 10:27:40 Info: [HTTP] 	 | SIZE = 1479
+2016-04-28 10:27:40 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-28 10:27:41 Info: [HTTP] 	 | STATUS = 200
+2016-04-28 10:27:41 Info: [HTTP] 	 | TIME = 0.604706
+2016-04-28 10:27:41 Info: [HTTP] 	 | SIZE = 1479
+2016-04-28 10:27:41 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-28 10:27:41 Info: [HTTP] 	 | STATUS = 200
+2016-04-28 10:27:41 Info: [HTTP] 	 | TIME = 0.127645
+2016-04-28 10:27:41 Info: [HTTP] 	 | SIZE = 1479
+2016-04-28 10:27:41 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-28 10:27:41 Info: [HTTP] 	 | STATUS = 200
+2016-04-28 10:27:41 Info: [HTTP] 	 | TIME = 0.130658
+2016-04-28 10:27:41 Info: [HTTP] 	 | SIZE = 1479
+2016-04-28 10:27:41 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-28 10:27:41 Info: [HTTP] 	 | STATUS = 200
+2016-04-28 10:27:41 Info: [HTTP] 	 | TIME = 0.420585
+2016-04-28 10:27:41 Info: [HTTP] 	 | SIZE = 1479
+2016-04-28 10:34:35 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-28 10:34:36 Info: [HTTP] 	 | STATUS = 200
+2016-04-28 10:34:36 Info: [HTTP] 	 | TIME = 0.268012
+2016-04-28 10:34:36 Info: [HTTP] 	 | SIZE = 1479
+2016-04-28 10:34:36 Info: [HTTP] GET:http://www.pol.una.py:80/
+2016-04-28 10:34:36 Info: [HTTP] 	 | STATUS = 200
+2016-04-28 10:34:36 Info: [HTTP] 	 | TIME = 0.843609
+2016-04-28 10:34:36 Info: [HTTP] 	 | SIZE = 42081
+2016-04-28 10:34:37 Info: [HTTP] GET:http://www.pol.una.py:80/abigrap/
+2016-04-28 10:34:41 Info: [HTTP] 	 | STATUS = 503
+2016-04-28 10:34:41 Info: [HTTP] 	 | TIME = 4.340748
+2016-04-28 10:34:41 Info: [HTTP] 	 | SIZE = 299
+2016-04-28 10:34:41 Info: [HTTP] GET:http://www.pol.una.py:80/cia/
+2016-04-28 10:34:41 Info: [HTTP] 	 | STATUS = 200
+2016-04-28 10:34:41 Info: [HTTP] 	 | TIME = 0.492173
+2016-04-28 10:34:41 Info: [HTTP] 	 | SIZE = 25390
+2016-04-28 10:34:42 Info: [HTTP] GET:http://www.pol.una.py:80/emprendedores/
+2016-04-28 10:34:43 Info: [HTTP] 	 | STATUS = 200
+2016-04-28 10:34:43 Info: [HTTP] 	 | TIME = 1.214907
+2016-04-28 10:34:43 Info: [HTTP] 	 | SIZE = 8480
+2016-04-28 10:34:43 Info: [HTTP] GET:http://www.pol.una.py:80/etyc2015/
+2016-04-28 10:34:43 Info: [HTTP] 	 | STATUS = 200
+2016-04-28 10:34:43 Info: [HTTP] 	 | TIME = 0.280733
+2016-04-28 10:34:43 Info: [HTTP] 	 | SIZE = 50058
+2016-04-28 10:34:43 Info: [HTTP] GET:http://www.pol.una.py:80/cursosverano/
+2016-04-28 10:34:44 Info: [HTTP] 	 | STATUS = 200
+2016-04-28 10:34:44 Info: [HTTP] 	 | TIME = 0.37813
+2016-04-28 10:34:44 Info: [HTTP] 	 | SIZE = 21623
+2016-04-28 10:34:44 Info: [HTTP] GET:http://www.pol.una.py:80/
+2016-04-28 10:34:45 Info: [HTTP] 	 | STATUS = 200
+2016-04-28 10:34:45 Info: [HTTP] 	 | TIME = 0.873043
+2016-04-28 10:34:45 Info: [HTTP] 	 | SIZE = 42081
+2016-04-28 10:34:45 Info: [HTTP] GET:http://www.pol.una.py:80/certificados/
+2016-04-28 10:34:45 Info: [HTTP] 	 | STATUS = 404
+2016-04-28 10:34:45 Info: [HTTP] 	 | TIME = 0.10476
+2016-04-28 10:34:45 Info: [HTTP] 	 | SIZE = 211
+2016-04-28 10:34:45 Info: [HTTP] GET:http://www.pol.una.py:80/cursosverano/inscripciones/nuevo/
+2016-04-28 10:34:45 Info: [HTTP] 	 | STATUS = 200
+2016-04-28 10:34:45 Info: [HTTP] 	 | TIME = 0.28614
+2016-04-28 10:34:45 Info: [HTTP] 	 | SIZE = 27732
+2016-04-28 10:34:45 Info: [HTTP] GET:http://www.pol.una.py:80/cursosverano/2016_certificados/
+2016-04-28 10:34:45 Info: [HTTP] 	 | STATUS = 200
+2016-04-28 10:34:45 Info: [HTTP] 	 | TIME = 0.169596
+2016-04-28 10:34:45 Info: [HTTP] 	 | SIZE = 1065
+2016-04-28 10:34:46 Info: [HTTP] GET:http://c.statcounter.com:80/9463217/0/87f1f4cb/1/
+2016-04-28 10:34:46 Info: [HTTP] 	 | STATUS = 200
+2016-04-28 10:34:46 Info: [HTTP] 	 | TIME = 0.626113
+2016-04-28 10:34:46 Info: [HTTP] 	 | SIZE = 49
+2016-04-28 10:34:46 Info: [HTTP] GET:http://www.pol.una.py:80/abigrap/
+2016-04-28 10:34:50 Info: [HTTP] 	 | STATUS = 503
+2016-04-28 10:34:50 Info: [HTTP] 	 | TIME = 3.401921
+2016-04-28 10:34:50 Info: [HTTP] 	 | SIZE = 299
+2016-04-28 10:34:50 Info: [HTTP] GET:http://www.pol.una.py:80/cia/
+2016-04-28 10:34:50 Info: [HTTP] 	 | STATUS = 200
+2016-04-28 10:34:50 Info: [HTTP] 	 | TIME = 0.447687
+2016-04-28 10:34:50 Info: [HTTP] 	 | SIZE = 25390
+2016-04-28 10:34:50 Info: [HTTP] GET:http://www.pol.una.py:80/emprendedores/
+2016-04-28 10:34:50 Info: [HTTP] 	 | STATUS = 200
+2016-04-28 10:34:50 Info: [HTTP] 	 | TIME = 0.218892
+2016-04-28 10:34:50 Info: [HTTP] 	 | SIZE = 8480
+2016-04-28 10:34:51 Info: [HTTP] GET:http://www.pol.una.py:80/etyc2015/
+2016-04-28 10:34:52 Info: [HTTP] 	 | STATUS = 200
+2016-04-28 10:34:52 Info: [HTTP] 	 | TIME = 1.142197
+2016-04-28 10:34:52 Info: [HTTP] 	 | SIZE = 50058
+2016-04-28 10:34:52 Info: [HTTP] GET:http://www.pol.una.py:80/cursosverano/
+2016-04-28 10:34:52 Info: [HTTP] 	 | STATUS = 200
+2016-04-28 10:34:52 Info: [HTTP] 	 | TIME = 0.375413
+2016-04-28 10:34:52 Info: [HTTP] 	 | SIZE = 21611
+2016-04-28 10:34:52 Info: [HTTP] GET:http://www.pol.una.py:80/
+2016-04-28 10:34:53 Info: [HTTP] 	 | STATUS = 200
+2016-04-28 10:34:53 Info: [HTTP] 	 | TIME = 0.69264
+2016-04-28 10:34:53 Info: [HTTP] 	 | SIZE = 42081
+2016-04-28 10:34:53 Info: [HTTP] GET:http://www.pol.una.py:80/certificados/
+2016-04-28 10:34:53 Info: [HTTP] 	 | STATUS = 404
+2016-04-28 10:34:53 Info: [HTTP] 	 | TIME = 0.119981
+2016-04-28 10:34:53 Info: [HTTP] 	 | SIZE = 211
+2016-04-28 10:34:53 Info: [HTTP] GET:http://www.pol.una.py:80/cursosverano/inscripciones/nuevo/
+2016-04-28 10:34:54 Info: [HTTP] 	 | STATUS = 200
+2016-04-28 10:34:54 Info: [HTTP] 	 | TIME = 0.747329
+2016-04-28 10:34:54 Info: [HTTP] 	 | SIZE = 27732
+2016-04-28 10:34:54 Info: [HTTP] GET:http://www.pol.una.py:80/cursosverano/2016_certificados/
+2016-04-28 10:34:54 Info: [HTTP] 	 | STATUS = 200
+2016-04-28 10:34:54 Info: [HTTP] 	 | TIME = 0.121647
+2016-04-28 10:34:54 Info: [HTTP] 	 | SIZE = 1065
+2016-04-28 10:34:54 Info: [HTTP] GET:http://c.statcounter.com:80/9463217/0/87f1f4cb/1/
+2016-04-28 10:34:55 Info: [HTTP] 	 | STATUS = 200
+2016-04-28 10:34:55 Info: [HTTP] 	 | TIME = 0.531936
+2016-04-28 10:34:55 Info: [HTTP] 	 | SIZE = 49
+2016-04-28 10:34:55 Info: [HTTP] GET:http://www.pol.una.py:80/abigrap/
+2016-04-28 10:34:58 Info: [HTTP] 	 | STATUS = 503
+2016-04-28 10:34:58 Info: [HTTP] 	 | TIME = 3.260333
+2016-04-28 10:34:58 Info: [HTTP] 	 | SIZE = 299
+2016-04-28 10:34:58 Info: [HTTP] GET:http://www.pol.una.py:80/cia/
+2016-04-28 10:34:59 Info: [HTTP] 	 | STATUS = 200
+2016-04-28 10:34:59 Info: [HTTP] 	 | TIME = 0.447403
+2016-04-28 10:34:59 Info: [HTTP] 	 | SIZE = 25390
+2016-04-28 10:34:59 Info: [HTTP] GET:http://www.pol.una.py:80/emprendedores/
+2016-04-28 10:34:59 Info: [HTTP] 	 | STATUS = 200
+2016-04-28 10:34:59 Info: [HTTP] 	 | TIME = 0.270376
+2016-04-28 10:34:59 Info: [HTTP] 	 | SIZE = 8480
+2016-04-28 10:34:59 Info: [HTTP] GET:http://www.pol.una.py:80/etyc2015/
+2016-04-28 10:35:00 Info: [HTTP] 	 | STATUS = 200
+2016-04-28 10:35:00 Info: [HTTP] 	 | TIME = 0.812606
+2016-04-28 10:35:00 Info: [HTTP] 	 | SIZE = 50058
+2016-04-28 10:35:00 Info: [HTTP] GET:http://www.pol.una.py:80/cursosverano/
+2016-04-28 10:35:00 Info: [HTTP] 	 | STATUS = 200
+2016-04-28 10:35:00 Info: [HTTP] 	 | TIME = 0.36752
+2016-04-28 10:35:00 Info: [HTTP] 	 | SIZE = 21623
+2016-04-28 10:35:01 Info: [HTTP] GET:http://c.statcounter.com:80/9463217/0/87f1f4cb/1/
+2016-04-28 10:35:01 Info: [HTTP] 	 | STATUS = 200
+2016-04-28 10:35:01 Info: [HTTP] 	 | TIME = 0.554494
+2016-04-28 10:35:01 Info: [HTTP] 	 | SIZE = 49
+2016-04-28 10:35:01 Info: [HTTP] GET:http://www.pol.una.py:80/
+2016-04-28 10:35:02 Info: [HTTP] 	 | STATUS = 200
+2016-04-28 10:35:02 Info: [HTTP] 	 | TIME = 0.727502
+2016-04-28 10:35:02 Info: [HTTP] 	 | SIZE = 42081
+2016-04-28 10:35:02 Info: [HTTP] GET:http://www.pol.una.py:80/certificados/
+2016-04-28 10:35:02 Info: [HTTP] 	 | STATUS = 404
+2016-04-28 10:35:02 Info: [HTTP] 	 | TIME = 0.153495
+2016-04-28 10:35:02 Info: [HTTP] 	 | SIZE = 211
+2016-04-28 10:35:02 Info: [HTTP] GET:http://www.pol.una.py:80/cursosverano/inscripciones/nuevo/
+2016-04-28 10:35:03 Info: [HTTP] 	 | STATUS = 200
+2016-04-28 10:35:03 Info: [HTTP] 	 | TIME = 0.910171
+2016-04-28 10:35:03 Info: [HTTP] 	 | SIZE = 27732
+2016-04-28 10:35:03 Info: [HTTP] GET:http://www.pol.una.py:80/cursosverano/2016_certificados/
+2016-04-28 10:35:03 Info: [HTTP] 	 | STATUS = 200
+2016-04-28 10:35:03 Info: [HTTP] 	 | TIME = 0.156639
+2016-04-28 10:35:03 Info: [HTTP] 	 | SIZE = 1065
+2016-04-28 10:35:03 Info: [HTTP] GET:http://c.statcounter.com:80/9463217/0/87f1f4cb/1/
+2016-04-28 10:35:04 Info: [HTTP] 	 | STATUS = 200
+2016-04-28 10:35:04 Info: [HTTP] 	 | TIME = 0.795653
+2016-04-28 10:35:04 Info: [HTTP] 	 | SIZE = 49
+2016-04-28 10:35:04 Info: [HTTP] GET:http://www.pol.una.py:80/abigrap/
+2016-04-28 10:35:04 Info: [HTTP] 	 | STATUS = 503
+2016-04-28 10:35:04 Info: [HTTP] 	 | TIME = 0.120228
+2016-04-28 10:35:04 Info: [HTTP] 	 | SIZE = 299
+2016-04-28 10:35:04 Info: [HTTP] GET:http://www.pol.una.py:80/cia/
+2016-04-28 10:35:05 Info: [HTTP] 	 | STATUS = 200
+2016-04-28 10:35:05 Info: [HTTP] 	 | TIME = 0.556187
+2016-04-28 10:35:05 Info: [HTTP] 	 | SIZE = 25390
+2016-04-28 10:35:05 Info: [HTTP] GET:http://www.pol.una.py:80/emprendedores/
+2016-04-28 10:35:06 Info: [HTTP] 	 | STATUS = 200
+2016-04-28 10:35:06 Info: [HTTP] 	 | TIME = 1.284579
+2016-04-28 10:35:06 Info: [HTTP] 	 | SIZE = 8480
+2016-04-28 10:35:06 Info: [HTTP] GET:http://www.pol.una.py:80/etyc2015/
+2016-04-28 10:35:07 Info: [HTTP] 	 | STATUS = 200
+2016-04-28 10:35:07 Info: [HTTP] 	 | TIME = 0.428496
+2016-04-28 10:35:07 Info: [HTTP] 	 | SIZE = 50058
+2016-04-28 10:35:07 Info: [HTTP] GET:http://www.pol.una.py:80/cursosverano/
+2016-04-28 10:35:07 Info: [HTTP] 	 | STATUS = 200
+2016-04-28 10:35:07 Info: [HTTP] 	 | TIME = 0.367157
+2016-04-28 10:35:07 Info: [HTTP] 	 | SIZE = 21623
+2016-04-28 10:35:07 Info: [HTTP] GET:http://c.statcounter.com:80/9463217/0/87f1f4cb/1/
+2016-04-28 10:35:08 Info: [HTTP] 	 | STATUS = 200
+2016-04-28 10:35:08 Info: [HTTP] 	 | TIME = 0.494877
+2016-04-28 10:35:08 Info: [HTTP] 	 | SIZE = 49
+2016-04-28 10:35:08 Info: [HTTP] GET:http://www.pol.una.py:80/
+2016-04-28 10:35:09 Info: [HTTP] 	 | STATUS = 200
+2016-04-28 10:35:09 Info: [HTTP] 	 | TIME = 0.748329
+2016-04-28 10:35:09 Info: [HTTP] 	 | SIZE = 42081
+2016-04-28 10:35:09 Info: [HTTP] GET:http://www.pol.una.py:80/certificados/
+2016-04-28 10:35:09 Info: [HTTP] 	 | STATUS = 404
+2016-04-28 10:35:09 Info: [HTTP] 	 | TIME = 0.130013
+2016-04-28 10:35:09 Info: [HTTP] 	 | SIZE = 211
+2016-04-28 10:35:09 Info: [HTTP] GET:http://www.pol.una.py:80/cursosverano/inscripciones/nuevo/
+2016-04-28 10:35:10 Info: [HTTP] 	 | STATUS = 200
+2016-04-28 10:35:10 Info: [HTTP] 	 | TIME = 0.65622
+2016-04-28 10:35:10 Info: [HTTP] 	 | SIZE = 27732
+2016-04-28 10:35:10 Info: [HTTP] GET:http://www.pol.una.py:80/cursosverano/2016_certificados/
+2016-04-28 10:35:10 Info: [HTTP] 	 | STATUS = 200
+2016-04-28 10:35:10 Info: [HTTP] 	 | TIME = 0.142945
+2016-04-28 10:35:10 Info: [HTTP] 	 | SIZE = 1065
+2016-04-28 10:35:10 Info: [HTTP] GET:http://c.statcounter.com:80/9463217/0/87f1f4cb/1/
+2016-04-28 10:35:11 Info: [HTTP] 	 | STATUS = 200
+2016-04-28 10:35:11 Info: [HTTP] 	 | TIME = 0.862724
+2016-04-28 10:35:11 Info: [HTTP] 	 | SIZE = 49
+2016-04-28 10:35:11 Info: [HTTP] GET:http://www.pol.una.py:80/abigrap/
+2016-04-28 10:35:15 Info: [HTTP] 	 | STATUS = 503
+2016-04-28 10:35:15 Info: [HTTP] 	 | TIME = 3.450789
+2016-04-28 10:35:15 Info: [HTTP] 	 | SIZE = 299
+2016-04-28 10:35:15 Info: [HTTP] GET:http://www.pol.una.py:80/cia/
+2016-04-28 10:35:15 Info: [HTTP] 	 | STATUS = 200
+2016-04-28 10:35:15 Info: [HTTP] 	 | TIME = 0.467987
+2016-04-28 10:35:15 Info: [HTTP] 	 | SIZE = 25390
+2016-04-28 10:35:15 Info: [HTTP] GET:http://www.pol.una.py:80/emprendedores/
+2016-04-28 10:35:15 Info: [HTTP] 	 | STATUS = 200
+2016-04-28 10:35:15 Info: [HTTP] 	 | TIME = 0.218135
+2016-04-28 10:35:15 Info: [HTTP] 	 | SIZE = 8480
+2016-04-28 10:35:15 Info: [HTTP] GET:http://www.pol.una.py:80/etyc2015/
+2016-04-28 10:35:16 Info: [HTTP] 	 | STATUS = 200
+2016-04-28 10:35:16 Info: [HTTP] 	 | TIME = 0.31522
+2016-04-28 10:35:16 Info: [HTTP] 	 | SIZE = 50058
+2016-04-28 10:35:16 Info: [HTTP] GET:http://www.pol.una.py:80/cursosverano/
+2016-04-28 10:35:16 Info: [HTTP] 	 | STATUS = 200
+2016-04-28 10:35:16 Info: [HTTP] 	 | TIME = 0.428482
+2016-04-28 10:35:16 Info: [HTTP] 	 | SIZE = 21623
+2016-04-28 10:35:16 Info: [HTTP] GET:http://c.statcounter.com:80/9463217/0/87f1f4cb/1/
+2016-04-28 10:35:17 Info: [HTTP] 	 | STATUS = 200
+2016-04-28 10:35:17 Info: [HTTP] 	 | TIME = 0.545076
+2016-04-28 10:35:17 Info: [HTTP] 	 | SIZE = 49
+2016-04-28 10:35:17 Info: [HTTP] GET:http://www.pol.una.py:80/
+2016-04-28 10:35:18 Info: [HTTP] 	 | STATUS = 200
+2016-04-28 10:35:18 Info: [HTTP] 	 | TIME = 1.107955
+2016-04-28 10:35:18 Info: [HTTP] 	 | SIZE = 42081
+2016-04-28 10:35:18 Info: [HTTP] GET:http://www.pol.una.py:80/certificados/
+2016-04-28 10:35:18 Info: [HTTP] 	 | STATUS = 404
+2016-04-28 10:35:18 Info: [HTTP] 	 | TIME = 0.111066
+2016-04-28 10:35:18 Info: [HTTP] 	 | SIZE = 211
+2016-04-28 10:35:18 Info: [HTTP] GET:http://www.pol.una.py:80/cursosverano/inscripciones/nuevo/
+2016-04-28 10:35:19 Info: [HTTP] 	 | STATUS = 200
+2016-04-28 10:35:19 Info: [HTTP] 	 | TIME = 0.71765
+2016-04-28 10:35:19 Info: [HTTP] 	 | SIZE = 27732
+2016-04-28 10:35:19 Info: [HTTP] GET:http://www.pol.una.py:80/cursosverano/2016_certificados/
+2016-04-28 10:35:19 Info: [HTTP] 	 | STATUS = 200
+2016-04-28 10:35:19 Info: [HTTP] 	 | TIME = 0.149755
+2016-04-28 10:35:19 Info: [HTTP] 	 | SIZE = 1065
+2016-04-28 10:35:19 Info: [HTTP] GET:http://c.statcounter.com:80/9463217/0/87f1f4cb/1/
+2016-04-28 10:35:20 Info: [HTTP] 	 | STATUS = 200
+2016-04-28 10:35:20 Info: [HTTP] 	 | TIME = 0.926674
+2016-04-28 10:35:20 Info: [HTTP] 	 | SIZE = 49
+2016-04-28 10:35:20 Info: [HTTP] GET:http://www.pol.una.py:80/abigrap/
+2016-04-28 10:35:24 Info: [HTTP] 	 | STATUS = 503
+2016-04-28 10:35:24 Info: [HTTP] 	 | TIME = 3.139335
+2016-04-28 10:35:24 Info: [HTTP] 	 | SIZE = 299
+2016-04-28 10:35:24 Info: [HTTP] GET:http://www.pol.una.py:80/cia/
+2016-04-28 10:35:24 Info: [HTTP] 	 | STATUS = 200
+2016-04-28 10:35:24 Info: [HTTP] 	 | TIME = 0.459575
+2016-04-28 10:35:24 Info: [HTTP] 	 | SIZE = 25390
+2016-04-28 10:35:24 Info: [HTTP] GET:http://www.pol.una.py:80/emprendedores/
+2016-04-28 10:35:24 Info: [HTTP] 	 | STATUS = 200
+2016-04-28 10:35:24 Info: [HTTP] 	 | TIME = 0.196842
+2016-04-28 10:35:24 Info: [HTTP] 	 | SIZE = 8480
+2016-04-28 10:35:24 Info: [HTTP] GET:http://www.pol.una.py:80/etyc2015/
+2016-04-28 10:35:25 Info: [HTTP] 	 | STATUS = 200
+2016-04-28 10:35:25 Info: [HTTP] 	 | TIME = 0.678022
+2016-04-28 10:35:25 Info: [HTTP] 	 | SIZE = 50058
+2016-04-28 10:35:25 Info: [HTTP] GET:http://www.pol.una.py:80/cursosverano/
+2016-04-28 10:35:26 Info: [HTTP] 	 | STATUS = 200
+2016-04-28 10:35:26 Info: [HTTP] 	 | TIME = 0.364087
+2016-04-28 10:35:26 Info: [HTTP] 	 | SIZE = 21623
+2016-04-28 10:35:26 Info: [HTTP] GET:http://c.statcounter.com:80/9463217/0/87f1f4cb/1/
+2016-04-28 10:35:26 Info: [HTTP] 	 | STATUS = 200
+2016-04-28 10:35:26 Info: [HTTP] 	 | TIME = 0.645755
+2016-04-28 10:35:26 Info: [HTTP] 	 | SIZE = 49
+2016-04-28 10:35:26 Info: [HTTP] GET:http://www.pol.una.py:80/
+2016-04-28 10:35:27 Info: [HTTP] 	 | STATUS = 200
+2016-04-28 10:35:27 Info: [HTTP] 	 | TIME = 0.682156
+2016-04-28 10:35:27 Info: [HTTP] 	 | SIZE = 42081
+2016-04-28 10:35:27 Info: [HTTP] GET:http://www.pol.una.py:80/certificados/
+2016-04-28 10:35:27 Info: [HTTP] 	 | STATUS = 404
+2016-04-28 10:35:27 Info: [HTTP] 	 | TIME = 0.118656
+2016-04-28 10:35:27 Info: [HTTP] 	 | SIZE = 211
+2016-04-28 10:35:27 Info: [HTTP] GET:http://www.pol.una.py:80/cursosverano/inscripciones/nuevo/
+2016-04-28 10:35:28 Info: [HTTP] 	 | STATUS = 200
+2016-04-28 10:35:28 Info: [HTTP] 	 | TIME = 0.259823
+2016-04-28 10:35:28 Info: [HTTP] 	 | SIZE = 27732
+2016-04-28 10:35:28 Info: [HTTP] GET:http://www.pol.una.py:80/cursosverano/2016_certificados/
+2016-04-28 10:35:28 Info: [HTTP] 	 | STATUS = 200
+2016-04-28 10:35:28 Info: [HTTP] 	 | TIME = 0.124959
+2016-04-28 10:35:28 Info: [HTTP] 	 | SIZE = 1065
+2016-04-28 10:35:28 Info: [HTTP] GET:http://c.statcounter.com:80/9463217/0/87f1f4cb/1/
+2016-04-28 10:35:29 Info: [HTTP] 	 | STATUS = 200
+2016-04-28 10:35:29 Info: [HTTP] 	 | TIME = 0.584668
+2016-04-28 10:35:29 Info: [HTTP] 	 | SIZE = 49
+2016-04-28 10:35:29 Info: [HTTP] GET:http://www.pol.una.py:80/abigrap/
+2016-04-28 10:35:29 Info: [HTTP] 	 | STATUS = 503
+2016-04-28 10:35:29 Info: [HTTP] 	 | TIME = 0.142257
+2016-04-28 10:35:29 Info: [HTTP] 	 | SIZE = 299
+2016-04-28 10:35:29 Info: [HTTP] GET:http://www.pol.una.py:80/cia/
+2016-04-28 10:35:29 Info: [HTTP] 	 | STATUS = 200
+2016-04-28 10:35:29 Info: [HTTP] 	 | TIME = 0.403629
+2016-04-28 10:35:29 Info: [HTTP] 	 | SIZE = 25390
+2016-04-28 10:35:29 Info: [HTTP] GET:http://www.pol.una.py:80/emprendedores/
+2016-04-28 10:35:30 Info: [HTTP] 	 | STATUS = 200
+2016-04-28 10:35:30 Info: [HTTP] 	 | TIME = 0.201385
+2016-04-28 10:35:30 Info: [HTTP] 	 | SIZE = 8480
+2016-04-28 10:35:30 Info: [HTTP] GET:http://www.pol.una.py:80/etyc2015/
+2016-04-28 10:35:30 Info: [HTTP] 	 | STATUS = 200
+2016-04-28 10:35:30 Info: [HTTP] 	 | TIME = 0.610227
+2016-04-28 10:35:30 Info: [HTTP] 	 | SIZE = 50058
+2016-04-28 10:35:30 Info: [HTTP] GET:http://www.pol.una.py:80/cursosverano/
+2016-04-28 10:35:31 Info: [HTTP] 	 | STATUS = 200
+2016-04-28 10:35:31 Info: [HTTP] 	 | TIME = 0.370316
+2016-04-28 10:35:31 Info: [HTTP] 	 | SIZE = 21623
+2016-04-28 10:35:31 Info: [HTTP] GET:http://c.statcounter.com:80/9463217/0/87f1f4cb/1/
+2016-04-28 10:35:32 Info: [HTTP] 	 | STATUS = 200
+2016-04-28 10:35:32 Info: [HTTP] 	 | TIME = 0.610824
+2016-04-28 10:35:32 Info: [HTTP] 	 | SIZE = 49
+2016-04-28 10:35:32 Info: [HTTP] GET:http://www.pol.una.py:80/
+2016-04-28 10:35:33 Info: [HTTP] 	 | STATUS = 200
+2016-04-28 10:35:33 Info: [HTTP] 	 | TIME = 0.815052
+2016-04-28 10:35:33 Info: [HTTP] 	 | SIZE = 42081
+2016-04-28 10:35:33 Info: [HTTP] GET:http://www.pol.una.py:80/certificados/
+2016-04-28 10:35:33 Info: [HTTP] 	 | STATUS = 404
+2016-04-28 10:35:33 Info: [HTTP] 	 | TIME = 0.114136
+2016-04-28 10:35:33 Info: [HTTP] 	 | SIZE = 211
+2016-04-28 10:35:33 Info: [HTTP] GET:http://www.pol.una.py:80/cursosverano/inscripciones/nuevo/
+2016-04-28 10:35:33 Info: [HTTP] 	 | STATUS = 200
+2016-04-28 10:35:33 Info: [HTTP] 	 | TIME = 0.307928
+2016-04-28 10:35:33 Info: [HTTP] 	 | SIZE = 27732
+2016-04-28 10:35:33 Info: [HTTP] GET:http://www.pol.una.py:80/cursosverano/2016_certificados/
+2016-04-28 10:35:33 Info: [HTTP] 	 | STATUS = 200
+2016-04-28 10:35:33 Info: [HTTP] 	 | TIME = 0.133787
+2016-04-28 10:35:33 Info: [HTTP] 	 | SIZE = 1065
+2016-04-28 10:35:34 Info: [HTTP] GET:http://c.statcounter.com:80/9463217/0/87f1f4cb/1/
+2016-04-28 10:35:34 Info: [HTTP] 	 | STATUS = 200
+2016-04-28 10:35:34 Info: [HTTP] 	 | TIME = 0.874754
+2016-04-28 10:35:34 Info: [HTTP] 	 | SIZE = 49
+2016-04-28 10:35:35 Info: [HTTP] GET:http://www.pol.una.py:80/abigrap/
+2016-04-28 10:37:52 Info: [HTTP] GET:http://www.pol.una.py:80/robots.txt
+2016-04-28 10:37:52 Info: [HTTP] 	 | STATUS = 200
+2016-04-28 10:37:52 Info: [HTTP] 	 | TIME = 0.316892
+2016-04-28 10:37:52 Info: [HTTP] 	 | SIZE = 1479
+2016-04-28 10:37:52 Info: [HTTP] GET:http://www.pol.una.py:80/
+2016-04-28 10:37:53 Info: [HTTP] 	 | STATUS = 200
+2016-04-28 10:37:53 Info: [HTTP] 	 | TIME = 0.861086
+2016-04-28 10:37:53 Info: [HTTP] 	 | SIZE = 42081
+2016-04-28 10:37:53 Info: [HTTP] GET:http://www.pol.una.py:80/abigrap/
+2016-04-28 10:37:56 Info: [HTTP] 	 | STATUS = 503
+2016-04-28 10:37:56 Info: [HTTP] 	 | TIME = 3.121031
+2016-04-28 10:37:56 Info: [HTTP] 	 | SIZE = 299
+2016-04-28 10:37:56 Info: [HTTP] GET:http://www.pol.una.py:80/cia/
+2016-04-28 10:37:57 Info: [HTTP] 	 | STATUS = 200
+2016-04-28 10:37:57 Info: [HTTP] 	 | TIME = 0.589093
+2016-04-28 10:37:57 Info: [HTTP] 	 | SIZE = 25390
+2016-04-28 10:37:57 Info: [HTTP] GET:http://www.pol.una.py:80/emprendedores/
+2016-04-28 10:37:57 Info: [HTTP] 	 | STATUS = 200
+2016-04-28 10:37:57 Info: [HTTP] 	 | TIME = 0.318565
+2016-04-28 10:37:57 Info: [HTTP] 	 | SIZE = 8480
+2016-04-28 10:37:57 Info: [HTTP] GET:http://www.pol.una.py:80/etyc2015/
+2016-04-28 10:37:58 Info: [HTTP] 	 | STATUS = 200
+2016-04-28 10:37:58 Info: [HTTP] 	 | TIME = 0.514244
+2016-04-28 10:37:58 Info: [HTTP] 	 | SIZE = 50058
+2016-04-28 10:37:58 Info: [HTTP] GET:http://www.pol.una.py:80/cursosverano/
+2016-04-28 10:37:58 Info: [HTTP] 	 | STATUS = 200
+2016-04-28 10:37:58 Info: [HTTP] 	 | TIME = 0.434187
+2016-04-28 10:37:58 Info: [HTTP] 	 | SIZE = 21623
+2016-04-28 10:37:58 Info: [HTTP] GET:http://www.pol.una.py:80/
+2016-04-28 10:37:59 Info: [HTTP] 	 | STATUS = 200
+2016-04-28 10:37:59 Info: [HTTP] 	 | TIME = 0.767428
+2016-04-28 10:37:59 Info: [HTTP] 	 | SIZE = 42081
+2016-04-28 10:37:59 Info: [HTTP] GET:http://www.pol.una.py:80/certificados/
+2016-04-28 10:37:59 Info: [HTTP] 	 | STATUS = 404
+2016-04-28 10:37:59 Info: [HTTP] 	 | TIME = 0.106622
+2016-04-28 10:37:59 Info: [HTTP] 	 | SIZE = 211
+2016-04-28 10:37:59 Info: [HTTP] GET:http://www.pol.una.py:80/cursosverano/inscripciones/nuevo/
+2016-04-28 10:38:01 Info: [HTTP] 	 | STATUS = 200
+2016-04-28 10:38:01 Info: [HTTP] 	 | TIME = 1.24458
+2016-04-28 10:38:01 Info: [HTTP] 	 | SIZE = 27732
+2016-04-28 10:38:01 Info: [HTTP] GET:http://www.pol.una.py:80/cursosverano/2016_certificados/
+2016-04-28 10:38:01 Info: [HTTP] 	 | STATUS = 200
+2016-04-28 10:38:01 Info: [HTTP] 	 | TIME = 0.116707
+2016-04-28 10:38:01 Info: [HTTP] 	 | SIZE = 1065
+2016-04-28 10:38:01 Info: [HTTP] GET:http://c.statcounter.com:80/9463217/0/87f1f4cb/1/
+2016-04-28 10:38:02 Info: [HTTP] 	 | STATUS = 200
+2016-04-28 10:38:02 Info: [HTTP] 	 | TIME = 0.858182
+2016-04-28 10:38:02 Info: [HTTP] 	 | SIZE = 49
+2016-04-28 10:38:02 Info: [HTTP] GET:http://www.pol.una.py:80/abigrap/
+2016-04-28 10:38:05 Info: [HTTP] 	 | STATUS = 503
+2016-04-28 10:38:05 Info: [HTTP] 	 | TIME = 3.13352
+2016-04-28 10:38:05 Info: [HTTP] 	 | SIZE = 299
+2016-04-28 10:38:05 Info: [HTTP] GET:http://www.pol.una.py:80/cia/
+2016-04-28 10:38:06 Info: [HTTP] 	 | STATUS = 200
+2016-04-28 10:38:06 Info: [HTTP] 	 | TIME = 0.484584
+2016-04-28 10:38:06 Info: [HTTP] 	 | SIZE = 25390
+2016-04-28 10:38:06 Info: [HTTP] GET:http://www.pol.una.py:80/emprendedores/
+2016-04-28 10:38:06 Info: [HTTP] 	 | STATUS = 200
+2016-04-28 10:38:06 Info: [HTTP] 	 | TIME = 0.233349
+2016-04-28 10:38:06 Info: [HTTP] 	 | SIZE = 8480
+2016-04-28 10:38:06 Info: [HTTP] GET:http://www.pol.una.py:80/etyc2015/
+2016-04-28 10:38:06 Info: [HTTP] 	 | STATUS = 200
+2016-04-28 10:38:06 Info: [HTTP] 	 | TIME = 0.335907
+2016-04-28 10:38:06 Info: [HTTP] 	 | SIZE = 50058
+2016-04-28 10:38:06 Info: [HTTP] GET:http://www.pol.una.py:80/cursosverano/
+2016-04-28 10:38:07 Info: [HTTP] 	 | STATUS = 200
+2016-04-28 10:38:07 Info: [HTTP] 	 | TIME = 0.362278
+2016-04-28 10:38:07 Info: [HTTP] 	 | SIZE = 21623
+2016-04-28 10:38:07 Info: [HTTP] GET:http://www.pol.una.py:80/
+2016-04-28 10:38:08 Info: [HTTP] 	 | STATUS = 200
+2016-04-28 10:38:08 Info: [HTTP] 	 | TIME = 1.001766
+2016-04-28 10:38:08 Info: [HTTP] 	 | SIZE = 42081
+2016-04-28 10:38:08 Info: [HTTP] GET:http://www.pol.una.py:80/certificados/
+2016-04-28 10:38:08 Info: [HTTP] 	 | STATUS = 404
+2016-04-28 10:38:08 Info: [HTTP] 	 | TIME = 0.14437
+2016-04-28 10:38:08 Info: [HTTP] 	 | SIZE = 211
+2016-04-28 10:38:08 Info: [HTTP] GET:http://www.pol.una.py:80/cursosverano/inscripciones/nuevo/
+2016-04-28 10:38:08 Info: [HTTP] 	 | STATUS = 200
+2016-04-28 10:38:08 Info: [HTTP] 	 | TIME = 0.277929
+2016-04-28 10:38:08 Info: [HTTP] 	 | SIZE = 27732
+2016-04-28 10:38:09 Info: [HTTP] GET:http://www.pol.una.py:80/cursosverano/2016_certificados/
+2016-04-28 10:38:10 Info: [HTTP] 	 | STATUS = 200
+2016-04-28 10:38:10 Info: [HTTP] 	 | TIME = 1.15127
+2016-04-28 10:38:10 Info: [HTTP] 	 | SIZE = 1065
+2016-04-28 10:38:10 Info: [HTTP] GET:http://c.statcounter.com:80/9463217/0/87f1f4cb/1/
+2016-04-28 10:38:11 Info: [HTTP] 	 | STATUS = 200
+2016-04-28 10:38:11 Info: [HTTP] 	 | TIME = 0.736537
+2016-04-28 10:38:11 Info: [HTTP] 	 | SIZE = 49
+2016-04-28 10:38:11 Info: [HTTP] GET:http://www.pol.una.py:80/abigrap/
+2016-04-28 10:38:14 Info: [HTTP] 	 | STATUS = 503
+2016-04-28 10:38:14 Info: [HTTP] 	 | TIME = 3.113251
+2016-04-28 10:38:14 Info: [HTTP] 	 | SIZE = 299
+2016-04-28 10:38:14 Info: [HTTP] GET:http://www.pol.una.py:80/cia/
+2016-04-28 10:38:14 Info: [HTTP] 	 | STATUS = 200
+2016-04-28 10:38:14 Info: [HTTP] 	 | TIME = 0.469056
+2016-04-28 10:38:14 Info: [HTTP] 	 | SIZE = 25390
+2016-04-28 10:38:14 Info: [HTTP] GET:http://www.pol.una.py:80/emprendedores/
+2016-04-28 10:38:19 Info: [HTTP] 	 | STATUS = 200
+2016-04-28 10:38:19 Info: [HTTP] 	 | TIME = 4.645602
+2016-04-28 10:38:19 Info: [HTTP] 	 | SIZE = 8480
+2016-04-28 10:38:19 Info: [HTTP] GET:http://www.pol.una.py:80/etyc2015/
+2016-04-28 10:38:20 Info: [HTTP] 	 | STATUS = 200
+2016-04-28 10:38:20 Info: [HTTP] 	 | TIME = 0.465995
+2016-04-28 10:38:20 Info: [HTTP] 	 | SIZE = 50058
+2016-04-28 10:38:20 Info: [HTTP] GET:http://www.pol.una.py:80/cursosverano/
+2016-04-28 10:38:20 Info: [HTTP] 	 | STATUS = 200
+2016-04-28 10:38:20 Info: [HTTP] 	 | TIME = 0.355639
+2016-04-28 10:38:20 Info: [HTTP] 	 | SIZE = 21623
+2016-04-28 10:38:20 Info: [HTTP] GET:http://c.statcounter.com:80/9463217/0/87f1f4cb/1/
+2016-04-28 10:38:21 Info: [HTTP] 	 | STATUS = 200
+2016-04-28 10:38:21 Info: [HTTP] 	 | TIME = 0.685415
+2016-04-28 10:38:21 Info: [HTTP] 	 | SIZE = 49
+2016-04-28 10:38:21 Info: [HTTP] GET:http://www.pol.una.py:80/
+2016-04-28 10:38:22 Info: [HTTP] 	 | STATUS = 200
+2016-04-28 10:38:22 Info: [HTTP] 	 | TIME = 0.757549
+2016-04-28 10:38:22 Info: [HTTP] 	 | SIZE = 42081
+2016-04-28 10:38:22 Info: [HTTP] GET:http://www.pol.una.py:80/certificados/
+2016-04-28 10:38:22 Info: [HTTP] 	 | STATUS = 404
+2016-04-28 10:38:22 Info: [HTTP] 	 | TIME = 0.118947
+2016-04-28 10:38:22 Info: [HTTP] 	 | SIZE = 211
+2016-04-28 10:38:22 Info: [HTTP] GET:http://www.pol.una.py:80/cursosverano/inscripciones/nuevo/
+2016-04-28 10:38:23 Info: [HTTP] 	 | STATUS = 200
+2016-04-28 10:38:23 Info: [HTTP] 	 | TIME = 0.924793
+2016-04-28 10:38:23 Info: [HTTP] 	 | SIZE = 27732
+2016-04-28 10:38:23 Info: [HTTP] GET:http://www.pol.una.py:80/cursosverano/2016_certificados/
+2016-04-28 10:38:23 Info: [HTTP] 	 | STATUS = 200
+2016-04-28 10:38:23 Info: [HTTP] 	 | TIME = 0.115554
+2016-04-28 10:38:23 Info: [HTTP] 	 | SIZE = 1065
+2016-04-28 10:38:23 Info: [HTTP] GET:http://c.statcounter.com:80/9463217/0/87f1f4cb/1/
+2016-04-28 10:38:24 Info: [HTTP] 	 | STATUS = 200
+2016-04-28 10:38:24 Info: [HTTP] 	 | TIME = 0.579196
+2016-04-28 10:38:24 Info: [HTTP] 	 | SIZE = 49
+2016-04-28 10:38:24 Info: [HTTP] GET:http://www.pol.una.py:80/abigrap/
+2016-04-28 10:38:24 Info: [HTTP] 	 | STATUS = 503
+2016-04-28 10:38:24 Info: [HTTP] 	 | TIME = 0.156103
+2016-04-28 10:38:24 Info: [HTTP] 	 | SIZE = 299
+2016-04-28 10:38:24 Info: [HTTP] GET:http://www.pol.una.py:80/cia/
+2016-04-28 10:38:24 Info: [HTTP] 	 | STATUS = 200
+2016-04-28 10:38:24 Info: [HTTP] 	 | TIME = 0.385398
+2016-04-28 10:38:24 Info: [HTTP] 	 | SIZE = 25390
+2016-04-28 10:38:24 Info: [HTTP] GET:http://www.pol.una.py:80/emprendedores/
+2016-04-28 10:38:25 Info: [HTTP] 	 | STATUS = 200
+2016-04-28 10:38:25 Info: [HTTP] 	 | TIME = 0.208571
+2016-04-28 10:38:25 Info: [HTTP] 	 | SIZE = 8480
+2016-04-28 10:38:25 Info: [HTTP] GET:http://www.pol.una.py:80/etyc2015/
+2016-04-28 10:38:25 Info: [HTTP] 	 | STATUS = 200
+2016-04-28 10:38:25 Info: [HTTP] 	 | TIME = 0.337724
+2016-04-28 10:38:25 Info: [HTTP] 	 | SIZE = 50058
+2016-04-28 10:38:25 Info: [HTTP] GET:http://www.pol.una.py:80/cursosverano/
+2016-04-28 10:38:26 Info: [HTTP] 	 | STATUS = 200
+2016-04-28 10:38:26 Info: [HTTP] 	 | TIME = 0.507075
+2016-04-28 10:38:26 Info: [HTTP] 	 | SIZE = 21623
+2016-04-28 10:38:26 Info: [HTTP] GET:http://c.statcounter.com:80/9463217/0/87f1f4cb/1/
+2016-04-28 10:38:27 Info: [HTTP] 	 | STATUS = 200
+2016-04-28 10:38:27 Info: [HTTP] 	 | TIME = 0.793778
+2016-04-28 10:38:27 Info: [HTTP] 	 | SIZE = 49
+2016-04-28 10:38:27 Info: [HTTP] GET:http://www.pol.una.py:80/
+2016-04-28 10:38:27 Info: [HTTP] 	 | STATUS = 200
+2016-04-28 10:38:27 Info: [HTTP] 	 | TIME = 0.716603
+2016-04-28 10:38:27 Info: [HTTP] 	 | SIZE = 42081
+2016-04-28 10:38:27 Info: [HTTP] GET:http://www.pol.una.py:80/certificados/
+2016-04-28 10:38:30 Info: [HTTP] 	 | STATUS = 404
