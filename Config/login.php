@@ -1,8 +1,9 @@
 <?php
 
 $config = [];
-$config['Login.url'] = [ 'controller' => 'pages','action' => 'login'];
-$config['Logout.url'] = [ 'controller' => 'pages','action' => 'logout'];
+$config['Login.redirect'] = [ 'controller' => 'backend','action' => 'index'];
+$config['Login.url'] = [ 'controller' => 'backend','action' => 'login'];
+$config['Logout.url'] = [ 'controller' => 'backend','action' => 'logout'];
 $config['Login.loginField'] = 'user_name';
 $config['Login.passwordField'] = 'password';
 $config['Login.maxAttempts'] = 3;

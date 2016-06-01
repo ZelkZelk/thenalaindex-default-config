@@ -13,17 +13,17 @@ $config = [];
  * private (boolean) : determina si la accion requiere login
  */
 
-$config['pages']['index'] = [
+$config['backend']['index'] = [
     'title' => 'The Nala Index',
     'private' => true
 ];
 
-$config['pages']['login'] = [
+$config['backend']['login'] = [
     'title' => 'The Nala Index',
     'private' => false
 ];
 
-$config['pages']['logout'] = [
+$config['backend']['logout'] = [
     'title' => 'Cerrar Sesion',
     'icon' => 'lock',
     'private' => false
@@ -156,4 +156,12 @@ $config['notifications']['email'] = [
     'title' => 'Listas de Email',
     'icon' => 'envelope',
     'private' => true,
+];
+
+# Frontend 
+
+$config['frontend']['index'] = [
+    'title' => 'The Nala Index',
+    'icon' => 'web',
+    'private' => false,
 ];

@@ -1,10 +1,10 @@
 <?php
 
-/* Armazon basico de la pagina */
+/* Armazon basico del backend */
 
-Router::connect('/', array('controller' => 'pages', 'action' => 'index'));
-Router::connect('/login.html', array('controller' => 'pages', 'action' => 'login'));
-Router::connect('/logout.html', array('controller' => 'pages', 'action' => 'logout'));
+Router::connect('/backend.html', array('controller' => 'backend', 'action' => 'index'));
+Router::connect('/backend/login.html', array('controller' => 'backend', 'action' => 'login'));
+Router::connect('/backend/logout.html', array('controller' => 'backend', 'action' => 'logout'));
 
 /* ABM Administradores */
 
@@ -37,3 +37,12 @@ Router::connect('/api/:ctrl/:actn/feed.js', array('controller' => 'api', 'action
 Router::connect('/api/:ctrl/:actn/push.js', array('controller' => 'api', 'action' => 'push'), ['ctrl','actn']);
 Router::connect('/api/:ctrl/:actn/edit.js', array('controller' => 'api', 'action' => 'edit'), ['ctrl','actn']);
 Router::connect('/api/:ctrl/:actn/drop.js', array('controller' => 'api', 'action' => 'drop'), ['ctrl','actn']);
+
+/* Webservices */
+
+Router::connect('/v:version/:webservice.json', array('controller' => 'webservice', 'action' => 'index'), ['version','webservice']);
+
+/* Rutas del Portal */
+
+Router::connect('/', array('controller' => 'frontend', 'action' => 'index'));
+Router::connect('/historico/:id/:target.html', array('controller' => 'frontend', 'action' => 'index','module' => 'histories'));
