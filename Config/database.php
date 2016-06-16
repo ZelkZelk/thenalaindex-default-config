@@ -66,8 +66,8 @@ class DATABASE_CONFIG {
 	public $crawler = array(
             'datasource' => 'Database/Postgres',
             'persistent' => false,
-            'host' => 'localhost',
-//            'host' => 'oficina.nosotroshq.com',
+//            'host' => 'localhost',
+            'host' => 'oficina.nosotroshq.com',
             'port' => '5432',
             'login' => 'klez',
             'password' => '12345',
@@ -80,8 +80,8 @@ class DATABASE_CONFIG {
 	public $backend = array(
             'datasource' => 'Database/Postgres',
             'persistent' => false,
-            'host' => 'localhost',
-//            'host' => 'oficina.nosotroshq.com',
+//            'host' => 'localhost',
+            'host' => 'oficina.nosotroshq.com',
             'port' => '5432',
             'login' => 'klez',
             'password' => '12345',
@@ -94,8 +94,8 @@ class DATABASE_CONFIG {
 	public $auth = array(
             'datasource' => 'Database/Postgres',
             'persistent' => false,
-            'host' => 'localhost',
-//            'host' => 'oficina.nosotroshq.com',
+//            'host' => 'localhost',
+            'host' => 'oficina.nosotroshq.com',
             'port' => '5432',
             'login' => 'klez',
             'password' => '12345',
@@ -108,8 +108,8 @@ class DATABASE_CONFIG {
 	public $analysis = array(
             'datasource' => 'Database/Postgres',
             'persistent' => false,
-            'host' => 'localhost',
-//            'host' => 'oficina.nosotroshq.com',
+//            'host' => 'localhost',
+            'host' => 'oficina.nosotroshq.com',
             'port' => '5432',
             'login' => 'klez',
             'password' => '12345',

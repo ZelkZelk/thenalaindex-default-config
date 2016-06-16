@@ -45,4 +45,9 @@ Router::connect('/v:version/:webservice.json', array('controller' => 'webservice
 /* Rutas del Portal */
 
 Router::connect('/', array('controller' => 'frontend', 'action' => 'index'));
-Router::connect('/historico/:id/:target.html', array('controller' => 'frontend', 'action' => 'index','module' => 'histories'));
+Router::connect('/historico/id::id/pag::page/:target.html', array('controller' => 'frontend', 'action' => 'index','module' => 'histories'));
+Router::connect('/exploracion/id::id/hash::hash/:target.html', array('controller' => 'frontend', 'action' => 'index','module' => 'exploration'));
+
+/* Asset Server */
+
+Router::connect('/asset/:hash', array('controller' => 'assets', 'action' => 'index'));
